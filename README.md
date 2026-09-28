@@ -10,10 +10,10 @@ flagged rather than hidden.
 
 | | |
 |---|---|
-| Team name | [TEAM NAME] |
+| Team name | [Coderush] |
 | Track | AI (IBM x NFSU problem statement 07, Track 3: Social Impact) |
-| Lead | [LEAD NAME], [LEAD EMAIL] |
-| Members | [MEMBER NAME], [MEMBER NAME] |
+| Lead | [Srijan], [hisrijanhere@gmail.com] |
+| Members | [Rimahi Joshi], [Arbaaz Dhillon], [Deekshant Dhiman]|
 
 ## Problem statement
 
