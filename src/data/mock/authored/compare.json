@@ -1,0 +1,100 @@
+{
+  "_note": "Per observation: field -> [result, reason]. Fields left out are unknown with 'Not described.'",
+  "T01-1": {
+    "distinguishing_marks": ["match", "Stitch-like mark above left eyebrow; baseline scar above left eyebrow."],
+    "clothing_upper": ["match", "Dark blue hoodie with white letters; baseline navy hoodie, white NY print."],
+    "accessories": ["match", "Maroon bag with a knotted strap matches the baseline bag."]
+  },
+  "T02-1": {
+    "clothing_upper": ["match", "Blue hoodie consistent with navy hoodie."],
+    "clothing_lower": ["match", "Grey track pant with white side lines, as in baseline."],
+    "footwear": ["match", "Blue rubber floaters match blue Bata floaters."],
+    "accessories": ["match", "Maroon backpack; strap and keychain not mentioned."],
+    "apparent_age": ["match", "13-14 includes stated age 14."],
+    "build": ["match", "Small, thin consistent with thin."]
+  },
+  "T03-1": {},
+  "T04-1": {
+    "clothing_upper": ["match", "Dark jacket loosely consistent with navy hoodie; low specificity."],
+    "accessories": ["unknown", "A bag, colour and type not stated; too vague to compare."],
+    "apparent_age": ["match", "13-14 includes stated age 14."]
+  },
+  "T05-1": {
+    "clothing_upper": ["mismatch", "Blue jacket, different garment from a hoodie."],
+    "clothing_lower": ["mismatch", "Black jeans against grey track pants."],
+    "hair": ["mismatch", "Full beard is inconsistent with a 14-year-old's description."],
+    "apparent_age": ["mismatch", "About 25 against stated age 14."],
+    "build": ["mismatch", "Heavy against thin."]
+  },
+  "T06-1": {
+    "clothing_upper": ["match", "Blue hoodie consistent with navy hoodie."],
+    "clothing_lower": ["match", "Grey pants consistent with grey track pants."],
+    "accessories": ["match", "Maroon bag matches baseline bag colour."]
+  },
+  "T07-1": {
+    "distinguishing_marks": ["match", "Mark over left eyebrow matches the baseline scar."],
+    "clothing_upper": ["match", "Hooded top consistent with hoodie; colour not stated."],
+    "accessories": ["match", "Maroon bag and blue asthma inhaler both in baseline."]
+  },
+  "T08-1": {
+    "clothing_upper": ["mismatch", "Red t-shirt against navy hoodie."],
+    "clothing_lower": ["mismatch", "Shorts against track pants."],
+    "apparent_age": ["mismatch", "8 or 9 against stated age 14."],
+    "build": ["mismatch", "Very chubby against thin."]
+  },
+  "T09-1": {
+    "clothing_upper": ["match", "Blue hoodie consistent with navy hoodie."],
+    "clothing_lower": ["match", "Grey pant consistent with grey track pants."],
+    "hair": ["unknown", "Only facial hair mentioned, hedged; head hair not described."],
+    "height": ["mismatch", "Tall against about 5 ft 2 in."],
+    "apparent_age": ["mismatch", "17-18 against stated age 14."],
+    "build": ["mismatch", "Big against thin."]
+  },
+  "T10-1": {
+    "clothing_upper": ["match", "Dark blue hoodie matches navy hoodie."],
+    "accessories": ["match", "Maroon bag matches baseline bag colour."],
+    "hair": ["match", "Short hair consistent with baseline."],
+    "apparent_age": ["match", "Not more than fifteen consistent with 14."],
+    "build": ["match", "Thin, as in baseline."]
+  },
+  "T11-1": {
+    "clothing_upper": ["mismatch", "White school shirt against navy hoodie."],
+    "clothing_lower": ["mismatch", "Navy pant against grey track pants."],
+    "height": ["mismatch", "Tall against about 5 ft 2 in."],
+    "apparent_age": ["mismatch", "16-17 against stated age 14."],
+    "complexion": ["mismatch", "Very fair against wheatish."]
+  },
+  "T12-1": {
+    "distinguishing_marks": ["match", "Line-like mark above eyebrow; side not stated, not contradicted."],
+    "clothing_upper": ["match", "Blue hoodie present, tied at waist; white t-shirt underneath."],
+    "clothing_lower": ["match", "Grey track pant, as in baseline."],
+    "footwear": ["match", "Blue floaters match."]
+  },
+  "T13-1": {},
+  "T14-1": {
+    "clothing_upper": ["match", "Blue hoodie consistent with navy hoodie."],
+    "accessories": ["match", "Maroon bag matches baseline bag colour."],
+    "height": ["mismatch", "Tall against about 5 ft 2 in."],
+    "apparent_age": ["mismatch", "19-20 against stated age 14."]
+  },
+  "C01-1": {
+    "clothing_upper": ["match", "Dark hoodie, navy or black; print unreadable but not contradicted."],
+    "clothing_lower": ["match", "Grey lower with side stripe matches."],
+    "footwear": ["unknown", "Light-coloured slippers; colour on camera unreliable, type ambiguous."],
+    "accessories": ["match", "Backpack reading maroon/brown consistent with maroon backpack."],
+    "apparent_age": ["match", "13-15 includes stated age 14."],
+    "build": ["match", "Thin, as in baseline."]
+  },
+  "C02-1": {
+    "clothing_upper": ["match", "Dark hoodie consistent with navy hoodie."],
+    "footwear": ["match", "Floaters match; colour reads light on camera."],
+    "accessories": ["match", "Maroon backpack matches."],
+    "build": ["match", "Thin, as in baseline."]
+  },
+  "C03-1": {
+    "clothing_upper": ["mismatch", "Red T-shirt against navy hoodie."],
+    "clothing_lower": ["mismatch", "Shorts against track pants."],
+    "apparent_age": ["mismatch", "8-10 against stated age 14."],
+    "build": ["mismatch", "Heavy against thin."]
+  }
+}

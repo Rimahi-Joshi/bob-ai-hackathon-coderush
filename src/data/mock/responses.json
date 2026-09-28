@@ -1,0 +1,1234 @@
+{
+ "9bbb7700c80aaef66172f4af": {
+  "reply": "pong"
+ },
+ "8d0d6678d2fddd696040d400": {
+  "observations": [
+   {
+    "observed_at": "2026-09-19T07:15:00",
+    "observed_until": null,
+    "location": "Shanti Nagar Colony",
+    "descriptors": {
+     "height": "about 5 ft 2 in",
+     "build": "thin",
+     "complexion": "wheatish",
+     "clothing_upper": "navy blue hoodie with 'NY' printed in white on the front",
+     "clothing_lower": "grey track pants with two white stripes down the side",
+     "footwear": "blue Bata floaters",
+     "hair": "short, slightly curly, side parting",
+     "distinguishing_marks": "scar about 2 cm above the left eyebrow (4 stitches, cycle fall at age 10)",
+     "accessories": "maroon Skybags school backpack, left strap broken and tied in a knot, Spider-Man keychain; blue Asthalin inhaler carried in the bag",
+     "apparent_age": "14 (stated age)",
+     "companions": "alone"
+    },
+    "raw_text": "Saturday morning he left home at around 7:15 saying he is going to school ... He was alone when he left from our house in Shanti Nagar, he goes to school walking only.",
+    "extraction_notes": "Last-seen event is departure from home, Shanti Nagar; time approximate ('around 7:15'). Saturday resolved to 2026-09-19 from the report date. Never reached Saraswati Vidyalaya (school called at 11). Mild asthma. No phone. Mother believes he took 600-700 rupees in coins ('I think'). Upset after being scolded over test marks the previous night. Mentions an uncle (mama) in Surat who says he has not arrived; friend Yash in Ambika Society already checked."
+   }
+  ]
+ },
+ "edc525368060632d933204f1": {
+  "observations": [
+   {
+    "observed_at": "2026-09-19T07:45:00",
+    "observed_until": "2026-09-19T07:50:00",
+    "location": "Gandhi Chowk Market",
+    "descriptors": {
+     "height": null,
+     "build": null,
+     "complexion": null,
+     "clothing_upper": "dark blue hoodie with white letters on the front",
+     "clothing_lower": null,
+     "footwear": null,
+     "hair": null,
+     "distinguishing_marks": "old cut mark like stitches above the left eyebrow",
+     "accessories": "maroon school bag, one strap tied in a knot",
+     "apparent_age": null,
+     "companions": null
+    },
+    "raw_text": "Saturday morning I was opening the shutter, time must be quarter to eight, ten to eight ... he was having that cut mark over his eye, left side, above the eyebrow, like old stitches. He was wearing blue hoodie, dark blue, with some white letters in front, and that maroon school bag, one strap was tied in a knot.",
+    "extraction_notes": "Saturday resolved to 2026-09-19. Shop is in Gandhi Chowk. Bought Parle-G and Frooti, paid in one- and two-rupee coins. Left towards the bus stand. Age not stated."
+   }
+  ]
+ },
+ "a5c3d0d444428bd3a99a6e20": {
+  "observations": [
+   {
+    "observed_at": "2026-09-19T08:30:00",
+    "observed_until": "2026-09-19T08:45:00",
+    "location": "City Bus Stand",
+    "descriptors": {
+     "height": null,
+     "build": "small, thin",
+     "complexion": null,
+     "clothing_upper": "blue hoodie, hood down",
+     "clothing_lower": "grey track pant with white lines on the side",
+     "footwear": "blue rubber floaters",
+     "hair": null,
+     "distinguishing_marks": null,
+     "accessories": "maroon bag worn on back",
+     "apparent_age": "13-14",
+     "companions": "appeared alone; said his father was inside"
+    },
+    "raw_text": "Saturday morning, I think 8:30, 8:45 like that, this boy came to me and asked ... He was small, thin fellow, maybe 13-14 only. Blue hoodie, hood was down, grey colour track pant with white lines on the side, and blue slipper type, those rubber floaters. Maroon bag on back.",
+    "extraction_notes": "Caller is an auto driver at bus stand gate 2. Boy asked for a bus to Vadodara and was directed to platform 4. Caller did not see whether he boarded. Claim that father was inside is unverified; caller felt 'something is off'."
+   }
+  ]
+ },
+ "c784203518960a15cb05a068": {
+  "observations": [
+   {
+    "observed_at": null,
+    "observed_until": null,
+    "location": "Gandhi Chowk Market",
+    "descriptors": {
+     "height": null,
+     "build": null,
+     "complexion": null,
+     "clothing_upper": null,
+     "clothing_lower": null,
+     "footwear": null,
+     "hair": null,
+     "distinguishing_marks": null,
+     "accessories": null,
+     "apparent_age": null,
+     "companions": null
+    },
+    "raw_text": "I saw a boy near the market. He was looking lost.",
+    "extraction_notes": "Anonymous. No date, time or description. 'The market' mapped to Gandhi Chowk Market as the only market in the place list; caller did not name it."
+   }
+  ]
+ },
+ "f77ed21a9f32a278d5df2d2b": {
+  "observations": [
+   {
+    "observed_at": "2026-09-19T11:30:00",
+    "observed_until": null,
+    "location": "Railway Station",
+    "descriptors": {
+     "height": null,
+     "build": null,
+     "complexion": null,
+     "clothing_upper": "dark jacket",
+     "clothing_lower": null,
+     "footwear": null,
+     "hair": null,
+     "distinguishing_marks": null,
+     "accessories": "a bag (colour and type not stated)",
+     "apparent_age": "13-14",
+     "companions": null
+    },
+    "raw_text": "I saw him at the railway station, Saturday, platform 2, eleven thirty or so, when the Ahmedabad train was coming. He had a dark jacket and a bag. He looked same like the photo, around 13-14 age. He got in the general coach I think.",
+    "extraction_notes": "Anonymous, refused name. Platform 2. Time approximate ('or so'). 'Looked same like the photo' is the caller's identification, not a description. Boarding the Ahmedabad train's general coach is hedged ('I think')."
+   }
+  ]
+ },
+ "a4f9313242399b9103452691": {
+  "observations": [
+   {
+    "observed_at": "2026-09-19T22:00:00",
+    "observed_until": null,
+    "location": "Ambika Society",
+    "descriptors": {
+     "height": null,
+     "build": "heavy",
+     "complexion": null,
+     "clothing_upper": "blue jacket",
+     "clothing_lower": "black jeans",
+     "footwear": null,
+     "hair": "full beard",
+     "distinguishing_marks": null,
+     "accessories": null,
+     "apparent_age": "about 25",
+     "companions": "alone; left on a motorbike"
+    },
+    "raw_text": "Tonight around 10 one fellow was hanging around our gate, heavy build, full beard, maybe 25 years, blue jacket, black jeans.",
+    "extraction_notes": "'Tonight' resolved to 2026-09-19 from the time the call was received (23:10). Caller describes an adult man, not a boy, and does not claim it is the missing child."
+   }
+  ]
+ },
+ "851eefb90e4ae9b1c9802d30": {
+  "observations": [
+   {
+    "observed_at": "2026-09-19T08:15:00",
+    "observed_until": null,
+    "location": "Lake Garden",
+    "descriptors": {
+     "height": null,
+     "build": null,
+     "complexion": null,
+     "clothing_upper": "blue hoodie, hood up",
+     "clothing_lower": "grey pants",
+     "footwear": null,
+     "hair": null,
+     "distinguishing_marks": null,
+     "accessories": "maroon bag (on the bench beside him)",
+     "apparent_age": null,
+     "companions": "alone, appeared to be waiting"
+    },
+    "raw_text": "Saturday, after yoga finishes at eight, so eight-fifteen or so, one child with blue hoodie and grey pants was sitting on the bench near the main gate, maroon bag kept on the bench next to him. He was eating biscuit. I didn't see his face properly, he had the hood on his head.",
+    "extraction_notes": "Called a 'child'; no age given. Face not seen (hood up). Eating a biscuit. Bench near the main gate."
+   }
+  ]
+ },
+ "35ab542b46f723f0639e634e": {
+  "observations": [
+   {
+    "observed_at": "2026-09-19T11:00:00",
+    "observed_until": "2026-09-19T11:30:00",
+    "location": "Sher-e-Punjab Dhaba, NH-48",
+    "descriptors": {
+     "height": null,
+     "build": null,
+     "complexion": null,
+     "clothing_upper": "hooded top (hood pulled back), colour not stated",
+     "clothing_lower": null,
+     "footwear": null,
+     "hair": null,
+     "distinguishing_marks": "mark on the forehead, left side over the eyebrow",
+     "accessories": "maroon bag; blue asthma inhaler, used once",
+     "apparent_age": null,
+     "companions": "adult male truck driver, possibly wearing a turban, white kurta; said the boy was his nephew"
+    },
+    "raw_text": "The boy in the poster, he came to our dhaba on Saturday, around 11, 11:30, with one truck driver, sardar-ji type man, he had turban I think, white kurta ... The boy had the maroon bag, and when he pulled back the hood I saw the mark on his forehead, left side over the eyebrow. He took out one pump, the asthma type, blue one, and used it once.",
+    "extraction_notes": "Caller is a waiter at the dhaba. Turban hedged ('I think'). Driver claimed the boy was his nephew ('bhatija'). Stayed about 40-45 minutes; driver paid. Hoodie colour not stated."
+   }
+  ]
+ },
+ "cbb957b4ff51e9c0532f79cd": {
+  "observations": [
+   {
+    "observed_at": null,
+    "observed_until": "2026-09-19T12:00:00",
+    "location": "Railway Station",
+    "descriptors": {
+     "height": null,
+     "build": "very chubby",
+     "complexion": null,
+     "clothing_upper": "red t-shirt",
+     "clothing_lower": "shorts",
+     "footwear": null,
+     "hair": null,
+     "distinguishing_marks": null,
+     "accessories": null,
+     "apparent_age": "8 or 9",
+     "companions": "woman in a green saree who was scolding him"
+    },
+    "raw_text": "There was one small boy, very chubby, maybe 8 or 9 years, crying, with a lady in green saree, platform 2, before 12 o'clock. Red t-shirt and shorts.",
+    "extraction_notes": "Only an upper time bound ('before 12'). Platform 2. Caller herself is unsure it is related."
+   }
+  ]
+ },
+ "ce92171d9fa13036510e29b7": {
+  "observations": [
+   {
+    "observed_at": "2026-09-19T09:00:00",
+    "observed_until": null,
+    "location": "Nehru Bridge",
+    "descriptors": {
+     "height": "tall",
+     "build": "big",
+     "complexion": null,
+     "clothing_upper": "blue hoodie",
+     "clothing_lower": "grey pant",
+     "footwear": null,
+     "hair": "moustache (caller unsure)",
+     "distinguishing_marks": null,
+     "accessories": null,
+     "apparent_age": "17-18, college-going type",
+     "companions": null
+    },
+    "raw_text": "near Nehru Bridge, 9 o'clock time. One boy in blue hoodie was sitting on the railing, looking at the water. Grey pant ... But he was a big boy, tall, maybe 17-18 years, college going type. Having a moustache also I think.",
+    "extraction_notes": "Sitting on the bridge railing looking at the water; caller feared he might jump. Moustache hedged ('I think'). No bag mentioned."
+   }
+  ]
+ },
+ "8437e16a2fac1d6f00136c8f": {
+  "observations": [
+   {
+    "observed_at": "2026-09-19T09:30:00",
+    "observed_until": "2026-09-19T09:45:00",
+    "location": "Transport Nagar",
+    "descriptors": {
+     "height": null,
+     "build": "thin",
+     "complexion": null,
+     "clothing_upper": "dark blue hoodie",
+     "clothing_lower": null,
+     "footwear": null,
+     "hair": "short",
+     "distinguishing_marks": null,
+     "accessories": "maroon bag",
+     "apparent_age": "not more than fifteen",
+     "companions": "spoke at length with the driver of an orange-cabin truck with Rajasthan (RJ) registration"
+    },
+    "raw_text": "Saturday this boy was roaming between the trucks, asking drivers who is going towards Surat or Vadodara side. Time was, I had just had my tea, so nine thirty, quarter to ten ... Dark blue hoodie, bag, maroon one. Short hair. One driver, I think Rajasthan number truck, orange cabin, talked to him for some time ... He looked thin and young, not more than fifteen.",
+    "extraction_notes": "Caller runs a puncture shop near the weighbridge. Boy asked for rides towards Surat or Vadodara. Truck registration hedged ('I think Rajasthan', 'RJ something'); rest of plate not seen."
+   }
+  ]
+ },
+ "9e61d209d3ec1c960da69886": {
+  "observations": [
+   {
+    "observed_at": "2026-09-19T18:00:00",
+    "observed_until": "2026-09-19T19:00:00",
+    "location": "Gandhi Chowk Market",
+    "descriptors": {
+     "height": "tall",
+     "build": null,
+     "complexion": "very fair",
+     "clothing_upper": "white school shirt",
+     "clothing_lower": "navy pant",
+     "footwear": null,
+     "hair": null,
+     "distinguishing_marks": null,
+     "accessories": null,
+     "apparent_age": "16-17",
+     "companions": "a girl; both on a scooter"
+    },
+    "raw_text": "I saw a boy at Gandhi Chowk on Saturday evening, six-seven o'clock, tall, very fair, in white school shirt and navy pant, with a girl. Around sixteen-seventeen. They were on a scooty, going fast.",
+    "extraction_notes": "Anonymous. Time given as a range ('six-seven o'clock')."
+   }
+  ]
+ },
+ "787d641742e116797fb0ae20": {
+  "observations": [
+   {
+    "observed_at": "2026-09-19T12:30:00",
+    "observed_until": "2026-09-19T12:40:00",
+    "location": "NH-48 Toll Plaza",
+    "descriptors": {
+     "height": null,
+     "build": null,
+     "complexion": null,
+     "clothing_upper": "white vest-type t-shirt; blue hoodie removed and tied around the waist",
+     "clothing_lower": "grey track pant",
+     "footwear": "blue floaters",
+     "hair": null,
+     "distinguishing_marks": "line-like mark above the eyebrow (side not stated)",
+     "accessories": null,
+     "apparent_age": null,
+     "companions": "travelling in an orange-cabin truck; driver not described"
+    },
+    "raw_text": "Saturday afternoon, around 12:30, 12:40, one truck was stopped in the queue and this boy got down from the cabin to buy water bottle from me. I saw the mark above his eyebrow, like a line. He had grey track pant and the blue chappals, floaters. Upper he had removed the hoodie, it was tied around his waist, blue one, he was wearing white banian type t-shirt inside.",
+    "extraction_notes": "Caller sells snacks at the south-side toll. Bag not seen; caller thinks it was left in the truck, so accessories left null. Truck went on towards Bharuch."
+   }
+  ]
+ },
+ "63e8deec7ac6020153167aa7": {
+  "observations": [
+   {
+    "observed_at": null,
+    "observed_until": null,
+    "location": "City Bus Stand",
+    "descriptors": {
+     "height": null,
+     "build": null,
+     "complexion": null,
+     "clothing_upper": null,
+     "clothing_lower": null,
+     "footwear": null,
+     "hair": null,
+     "distinguishing_marks": null,
+     "accessories": null,
+     "apparent_age": null,
+     "companions": null
+    },
+    "raw_text": "I think some boy was sitting at the bus stand, I'm not sure what time, might be Saturday or Friday.",
+    "extraction_notes": "Day uncertain (Friday or Saturday), so no date recorded. No time. No description. Caller says it 'could be anyone'."
+   }
+  ]
+ },
+ "8bd9ce55dcaf103656425883": {
+  "observations": [
+   {
+    "observed_at": "2026-09-19T10:00:00",
+    "observed_until": null,
+    "location": "Transport Nagar",
+    "descriptors": {
+     "height": "tall (caller's own height)",
+     "build": null,
+     "complexion": null,
+     "clothing_upper": "blue hoodie",
+     "clothing_lower": null,
+     "footwear": null,
+     "hair": null,
+     "distinguishing_marks": null,
+     "accessories": "maroon bag",
+     "apparent_age": "19-20",
+     "companions": null
+    },
+    "raw_text": "That day around ten o'clock one boy in blue hoodie with maroon bag was asking for lift. But he looked older to me, 19-20, tall like me. Maybe it is not the same, I am not sure.",
+    "extraction_notes": "Caller is a truck cleaner who was parked at Transport Nagar on Saturday. Reported three days later. Caller doubts it is the same boy. Boy was asking for a lift; caller's driver refused."
+   }
+  ]
+ },
+ "1083999ad5b5885a2cdb8f44": {
+  "observations": [
+   {
+    "observed_at": "2026-09-19T08:36:00",
+    "observed_until": "2026-09-19T08:39:00",
+    "location": "City Bus Stand",
+    "descriptors": {
+     "height": null,
+     "build": "thin",
+     "complexion": null,
+     "clothing_upper": "dark hoodie (navy or black), chest print not legible",
+     "clothing_lower": "grey lower with light side stripe",
+     "footwear": "light-coloured slippers",
+     "hair": null,
+     "distinguishing_marks": null,
+     "accessories": "dark backpack, colour reads maroon/brown",
+     "apparent_age": "13-15",
+     "companions": "alone"
+    },
+    "raw_text": "08:36:12 M juv, est 13-15 yrs, thin build. Dark hoodie (navy/black, chest print not legible), grey lower w/ light side stripe, light-coloured slippers. Dark backpack, colour reads maroon/brown. Approaches enquiry counter 08:36-08:38. Exits frame towards gate 2 (south exit) 08:39.",
+    "extraction_notes": "Camera CAM-BS-03, platform 4 concourse. Face partly visible; no marks resolvable at this resolution. Went to the enquiry counter, then left towards gate 2 (south exit)."
+   }
+  ]
+ },
+ "229caf979cb2317deb3ce5d7": {
+  "observations": [
+   {
+    "observed_at": "2026-09-19T11:12:00",
+    "observed_until": "2026-09-19T11:58:00",
+    "location": "Sher-e-Punjab Dhaba, NH-48",
+    "descriptors": {
+     "height": null,
+     "build": "thin",
+     "complexion": null,
+     "clothing_upper": "dark hoodie",
+     "clothing_lower": null,
+     "footwear": "light floaters",
+     "hair": null,
+     "distinguishing_marks": null,
+     "accessories": "maroon backpack",
+     "apparent_age": null,
+     "companions": "adult male in turban and white kurta; orange-cabin multi-axle truck, RJ registration (partial: RJ 27 G?)"
+    },
+    "raw_text": "11:12:40 orange-cabin multi-axle truck, RJ reg (partial: RJ 27 G?), halts at pump. M juv alights passenger side: dark hoodie, maroon backpack, light floaters, thin. Walks w/ adult M (turban, white kurta) towards dhaba entrance 11:13:05. 11:58:20 same two return, board truck. Truck exits southbound 12:04.",
+    "extraction_notes": "Camera CAM-NH48-P7 at the Indian Oil pump next to Sher-e-Punjab Dhaba; mapped to the dhaba. Partial plate uncertain ('?'). Face not resolvable. Truck left southbound at 12:04."
+   }
+  ]
+ },
+ "0d2e0dccc7e55a7a3213c806": {
+  "observations": [
+   {
+    "observed_at": "2026-09-19T11:26:00",
+    "observed_until": null,
+    "location": "Railway Station",
+    "descriptors": {
+     "height": null,
+     "build": "heavy",
+     "complexion": null,
+     "clothing_upper": "red T-shirt",
+     "clothing_lower": "shorts",
+     "footwear": null,
+     "hair": null,
+     "distinguishing_marks": null,
+     "accessories": null,
+     "apparent_age": "8-10",
+     "companions": "adult woman in a green saree"
+    },
+    "raw_text": "11:26:30 M juv est 8-10 yrs, heavy build, red T-shirt, shorts, with adult F in green saree, bench near stairs.",
+    "extraction_notes": "Camera CAM-RLY-P2-01, platform 2, reviewed 11:00-12:10. Operator saw no juvenile matching the circulated description (navy hoodie, maroon backpack) on the platform or boarding the Ahmedabad train (arr 11:24, dep 11:31). Coverage gap: general coaches at positions 1-3 were not in view, so boarding there cannot be excluded from this footage."
+   }
+  ]
+ },
+ "0c5f9a21219d9fb923f9811d": {
+  "fields": {
+   "distinguishing_marks": {
+    "result": "match",
+    "reason": "Stitch-like mark above left eyebrow; baseline scar above left eyebrow."
+   },
+   "clothing_upper": {
+    "result": "match",
+    "reason": "Dark blue hoodie with white letters; baseline navy hoodie, white NY print."
+   },
+   "clothing_lower": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "footwear": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "accessories": {
+    "result": "match",
+    "reason": "Maroon bag with a knotted strap matches the baseline bag."
+   },
+   "hair": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "height": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "apparent_age": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "build": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "complexion": {
+    "result": "unknown",
+    "reason": "Not described."
+   }
+  }
+ },
+ "35b651ff649fd1fbeb90b0c1": {
+  "fields": {
+   "distinguishing_marks": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "clothing_upper": {
+    "result": "match",
+    "reason": "Blue hoodie consistent with navy hoodie."
+   },
+   "clothing_lower": {
+    "result": "match",
+    "reason": "Grey track pant with white side lines, as in baseline."
+   },
+   "footwear": {
+    "result": "match",
+    "reason": "Blue rubber floaters match blue Bata floaters."
+   },
+   "accessories": {
+    "result": "match",
+    "reason": "Maroon backpack; strap and keychain not mentioned."
+   },
+   "hair": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "height": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "apparent_age": {
+    "result": "match",
+    "reason": "13-14 includes stated age 14."
+   },
+   "build": {
+    "result": "match",
+    "reason": "Small, thin consistent with thin."
+   },
+   "complexion": {
+    "result": "unknown",
+    "reason": "Not described."
+   }
+  }
+ },
+ "ce71fec5604848234f59ac93": {
+  "fields": {
+   "distinguishing_marks": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "clothing_upper": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "clothing_lower": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "footwear": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "accessories": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "hair": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "height": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "apparent_age": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "build": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "complexion": {
+    "result": "unknown",
+    "reason": "Not described."
+   }
+  }
+ },
+ "6b9640d35d71a7b81b57a3ab": {
+  "fields": {
+   "distinguishing_marks": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "clothing_upper": {
+    "result": "match",
+    "reason": "Dark jacket loosely consistent with navy hoodie; low specificity."
+   },
+   "clothing_lower": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "footwear": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "accessories": {
+    "result": "unknown",
+    "reason": "A bag, colour and type not stated; too vague to compare."
+   },
+   "hair": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "height": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "apparent_age": {
+    "result": "match",
+    "reason": "13-14 includes stated age 14."
+   },
+   "build": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "complexion": {
+    "result": "unknown",
+    "reason": "Not described."
+   }
+  }
+ },
+ "1d3c0a6d1a3ea48ebc29d28b": {
+  "fields": {
+   "distinguishing_marks": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "clothing_upper": {
+    "result": "mismatch",
+    "reason": "Blue jacket, different garment from a hoodie."
+   },
+   "clothing_lower": {
+    "result": "mismatch",
+    "reason": "Black jeans against grey track pants."
+   },
+   "footwear": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "accessories": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "hair": {
+    "result": "mismatch",
+    "reason": "Full beard is inconsistent with a 14-year-old's description."
+   },
+   "height": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "apparent_age": {
+    "result": "mismatch",
+    "reason": "About 25 against stated age 14."
+   },
+   "build": {
+    "result": "mismatch",
+    "reason": "Heavy against thin."
+   },
+   "complexion": {
+    "result": "unknown",
+    "reason": "Not described."
+   }
+  }
+ },
+ "21539802368996c6fb101306": {
+  "fields": {
+   "distinguishing_marks": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "clothing_upper": {
+    "result": "match",
+    "reason": "Blue hoodie consistent with navy hoodie."
+   },
+   "clothing_lower": {
+    "result": "match",
+    "reason": "Grey pants consistent with grey track pants."
+   },
+   "footwear": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "accessories": {
+    "result": "match",
+    "reason": "Maroon bag matches baseline bag colour."
+   },
+   "hair": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "height": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "apparent_age": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "build": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "complexion": {
+    "result": "unknown",
+    "reason": "Not described."
+   }
+  }
+ },
+ "d049bf1c7d4a53f9003c2b40": {
+  "fields": {
+   "distinguishing_marks": {
+    "result": "match",
+    "reason": "Mark over left eyebrow matches the baseline scar."
+   },
+   "clothing_upper": {
+    "result": "match",
+    "reason": "Hooded top consistent with hoodie; colour not stated."
+   },
+   "clothing_lower": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "footwear": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "accessories": {
+    "result": "match",
+    "reason": "Maroon bag and blue asthma inhaler both in baseline."
+   },
+   "hair": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "height": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "apparent_age": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "build": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "complexion": {
+    "result": "unknown",
+    "reason": "Not described."
+   }
+  }
+ },
+ "ce99a6bb2f8f5511bff4630d": {
+  "fields": {
+   "distinguishing_marks": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "clothing_upper": {
+    "result": "mismatch",
+    "reason": "Red t-shirt against navy hoodie."
+   },
+   "clothing_lower": {
+    "result": "mismatch",
+    "reason": "Shorts against track pants."
+   },
+   "footwear": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "accessories": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "hair": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "height": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "apparent_age": {
+    "result": "mismatch",
+    "reason": "8 or 9 against stated age 14."
+   },
+   "build": {
+    "result": "mismatch",
+    "reason": "Very chubby against thin."
+   },
+   "complexion": {
+    "result": "unknown",
+    "reason": "Not described."
+   }
+  }
+ },
+ "ba342bdc0a31ed9b3adb262e": {
+  "fields": {
+   "distinguishing_marks": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "clothing_upper": {
+    "result": "match",
+    "reason": "Blue hoodie consistent with navy hoodie."
+   },
+   "clothing_lower": {
+    "result": "match",
+    "reason": "Grey pant consistent with grey track pants."
+   },
+   "footwear": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "accessories": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "hair": {
+    "result": "unknown",
+    "reason": "Only facial hair mentioned, hedged; head hair not described."
+   },
+   "height": {
+    "result": "mismatch",
+    "reason": "Tall against about 5 ft 2 in."
+   },
+   "apparent_age": {
+    "result": "mismatch",
+    "reason": "17-18 against stated age 14."
+   },
+   "build": {
+    "result": "mismatch",
+    "reason": "Big against thin."
+   },
+   "complexion": {
+    "result": "unknown",
+    "reason": "Not described."
+   }
+  }
+ },
+ "820e4854cfff8c3c2ff1164b": {
+  "fields": {
+   "distinguishing_marks": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "clothing_upper": {
+    "result": "match",
+    "reason": "Dark blue hoodie matches navy hoodie."
+   },
+   "clothing_lower": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "footwear": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "accessories": {
+    "result": "match",
+    "reason": "Maroon bag matches baseline bag colour."
+   },
+   "hair": {
+    "result": "match",
+    "reason": "Short hair consistent with baseline."
+   },
+   "height": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "apparent_age": {
+    "result": "match",
+    "reason": "Not more than fifteen consistent with 14."
+   },
+   "build": {
+    "result": "match",
+    "reason": "Thin, as in baseline."
+   },
+   "complexion": {
+    "result": "unknown",
+    "reason": "Not described."
+   }
+  }
+ },
+ "172ef47bf3943660b38c05de": {
+  "fields": {
+   "distinguishing_marks": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "clothing_upper": {
+    "result": "mismatch",
+    "reason": "White school shirt against navy hoodie."
+   },
+   "clothing_lower": {
+    "result": "mismatch",
+    "reason": "Navy pant against grey track pants."
+   },
+   "footwear": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "accessories": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "hair": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "height": {
+    "result": "mismatch",
+    "reason": "Tall against about 5 ft 2 in."
+   },
+   "apparent_age": {
+    "result": "mismatch",
+    "reason": "16-17 against stated age 14."
+   },
+   "build": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "complexion": {
+    "result": "mismatch",
+    "reason": "Very fair against wheatish."
+   }
+  }
+ },
+ "edfc8064a8143907d060be64": {
+  "fields": {
+   "distinguishing_marks": {
+    "result": "match",
+    "reason": "Line-like mark above eyebrow; side not stated, not contradicted."
+   },
+   "clothing_upper": {
+    "result": "match",
+    "reason": "Blue hoodie present, tied at waist; white t-shirt underneath."
+   },
+   "clothing_lower": {
+    "result": "match",
+    "reason": "Grey track pant, as in baseline."
+   },
+   "footwear": {
+    "result": "match",
+    "reason": "Blue floaters match."
+   },
+   "accessories": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "hair": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "height": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "apparent_age": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "build": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "complexion": {
+    "result": "unknown",
+    "reason": "Not described."
+   }
+  }
+ },
+ "2cf81544e1bca0490aba2290": {
+  "fields": {
+   "distinguishing_marks": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "clothing_upper": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "clothing_lower": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "footwear": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "accessories": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "hair": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "height": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "apparent_age": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "build": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "complexion": {
+    "result": "unknown",
+    "reason": "Not described."
+   }
+  }
+ },
+ "ed69f992ec863cd532eb90b9": {
+  "fields": {
+   "distinguishing_marks": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "clothing_upper": {
+    "result": "match",
+    "reason": "Blue hoodie consistent with navy hoodie."
+   },
+   "clothing_lower": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "footwear": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "accessories": {
+    "result": "match",
+    "reason": "Maroon bag matches baseline bag colour."
+   },
+   "hair": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "height": {
+    "result": "mismatch",
+    "reason": "Tall against about 5 ft 2 in."
+   },
+   "apparent_age": {
+    "result": "mismatch",
+    "reason": "19-20 against stated age 14."
+   },
+   "build": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "complexion": {
+    "result": "unknown",
+    "reason": "Not described."
+   }
+  }
+ },
+ "e09b15f1d9f2d2d2e2977a10": {
+  "fields": {
+   "distinguishing_marks": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "clothing_upper": {
+    "result": "match",
+    "reason": "Dark hoodie, navy or black; print unreadable but not contradicted."
+   },
+   "clothing_lower": {
+    "result": "match",
+    "reason": "Grey lower with side stripe matches."
+   },
+   "footwear": {
+    "result": "unknown",
+    "reason": "Light-coloured slippers; colour on camera unreliable, type ambiguous."
+   },
+   "accessories": {
+    "result": "match",
+    "reason": "Backpack reading maroon/brown consistent with maroon backpack."
+   },
+   "hair": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "height": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "apparent_age": {
+    "result": "match",
+    "reason": "13-15 includes stated age 14."
+   },
+   "build": {
+    "result": "match",
+    "reason": "Thin, as in baseline."
+   },
+   "complexion": {
+    "result": "unknown",
+    "reason": "Not described."
+   }
+  }
+ },
+ "0db512d1d3a712f63b78cae4": {
+  "fields": {
+   "distinguishing_marks": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "clothing_upper": {
+    "result": "match",
+    "reason": "Dark hoodie consistent with navy hoodie."
+   },
+   "clothing_lower": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "footwear": {
+    "result": "match",
+    "reason": "Floaters match; colour reads light on camera."
+   },
+   "accessories": {
+    "result": "match",
+    "reason": "Maroon backpack matches."
+   },
+   "hair": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "height": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "apparent_age": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "build": {
+    "result": "match",
+    "reason": "Thin, as in baseline."
+   },
+   "complexion": {
+    "result": "unknown",
+    "reason": "Not described."
+   }
+  }
+ },
+ "02c82c9de2da76bece519bc5": {
+  "fields": {
+   "distinguishing_marks": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "clothing_upper": {
+    "result": "mismatch",
+    "reason": "Red T-shirt against navy hoodie."
+   },
+   "clothing_lower": {
+    "result": "mismatch",
+    "reason": "Shorts against track pants."
+   },
+   "footwear": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "accessories": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "hair": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "height": {
+    "result": "unknown",
+    "reason": "Not described."
+   },
+   "apparent_age": {
+    "result": "mismatch",
+    "reason": "8-10 against stated age 14."
+   },
+   "build": {
+    "result": "mismatch",
+    "reason": "Heavy against thin."
+   },
+   "complexion": {
+    "result": "unknown",
+    "reason": "Not described."
+   }
+  }
+ },
+ "7f234a5970bd58eb4912b632": {
+  "narrative": "Aarav Rathod was last seen leaving home in Shanti Nagar Colony at about 07:15 on 19 September, saying he was going to school. Between 07:45 and 08:40 sightings consistent with his description place him at Gandhi Chowk Market (T01-1, scar and knotted maroon bag noted), Lake Garden (T06-1) and City Bus Stand, where he asked about a bus to Vadodara (T02-1) and was captured on camera at the enquiry counter (C01-1). From about 09:30 a boy matching the description was at Transport Nagar asking truck drivers for rides towards Surat or Vadodara, and was seen talking with the driver of an orange-cabin truck with Rajasthan registration (T10-1, T14-1). At 11:12 a pump camera next to Sher-e-Punjab Dhaba recorded a boy with a maroon backpack leaving an orange-cabin RJ-registered truck with an adult man (C02-1); a waiter there reports the scar and an asthma inhaler (T07-1). The truck left southbound at 12:04, and at about 12:30 a boy with the scar was seen getting down from an orange-cabin truck at NH-48 Toll Plaza (T12-1). An anonymous tip placing him at the Railway Station at 11:30 (T04-1) cannot be reconciled with the dhaba sightings and remains unreconciled, requiring field verification.",
+  "leads": [
+   {
+    "title": "Trace the orange-cabin RJ truck southbound on NH-48",
+    "action": "Pull FASTag and toll-plaza camera records for 12:15-12:50 on 19 September for orange-cabin multi-axle trucks with registrations beginning RJ 27 G. Circulate the partial plate to highway patrol and police stations south of the toll towards Bharuch.",
+    "where": "NH-48 Toll Plaza operator; highway patrol; stations on the Bharuch route",
+    "why": "C02-1 records a boy with a maroon backpack leaving an orange-cabin RJ truck (partial RJ 27 G?) at the dhaba and the truck leaving southbound at 12:04. T07-1 reports the scar and inhaler at the dhaba. T12-1 reports a boy with the scar getting down from an orange-cabin truck at the toll heading towards Bharuch. T10-1 saw him talking to an orange-cabin RJ truck driver at Transport Nagar.",
+    "supports": [
+     "C02-1",
+     "T07-1",
+     "T12-1",
+     "T10-1"
+    ],
+    "confirm": "A toll or FASTag record of an orange-cabin RJ 27 G* truck passing between 12:15 and 12:50, or the driver identified and located.",
+    "kill": "Toll camera footage for 12:15-12:50 shows no orange-cabin RJ-registered truck."
+   },
+   {
+    "title": "Alert Surat: the maternal uncle's household and arrival points",
+    "action": "Inform Surat city police with the description and the truck details. Ask the uncle's household to report any contact, and check Surat bus stand and truck terminals from 19 September afternoon.",
+    "where": "Surat city police; uncle's household in Surat",
+    "why": "The family says he talks about his uncle in Surat a lot (F01-1). At Transport Nagar he asked drivers for rides towards Surat or Vadodara (T10-1), and the truck was last seen heading south, the Surat direction (T12-1).",
+    "supports": [
+     "T10-1",
+     "T12-1",
+     "F01-1"
+    ],
+    "confirm": "Contact with the uncle's household, or a sighting in Surat.",
+    "kill": "The truck is traced to a route that does not reach Surat and he is found elsewhere."
+   },
+   {
+    "title": "Verify the railway station branch",
+    "action": "Obtain footage from any other camera covering general coaches 1-3 on platform 2 between 11:20 and 11:31, and question the ticket examiner of the Ahmedabad-bound passenger train that departed at 11:31.",
+    "where": "Railway Station, platform 2; Railway Protection Force",
+    "why": "An anonymous caller places him boarding the general coach at 11:30 (T04-1). The platform camera saw no match but did not cover coaches 1-3 (C03-1). The tip conflicts with the dhaba sightings and is unreconciled.",
+    "supports": [
+     "T04-1",
+     "C03-1"
+    ],
+    "confirm": "Footage or a witness places a boy matching the description in coaches 1-3.",
+    "kill": "Footage covering coaches 1-3 for 11:20-11:31 shows no matching boy boarding."
+   }
+  ]
+ },
+ "0e73ddc80980d3e42139b523": {
+  "lead_sheet": "INVESTIGATIVE LEAD SHEET\nSubject: Aarav Rathod, 14. Last seen 19 Sep 2026, about 07:15, leaving home, Shanti Nagar Colony.\nLatest sighting on the main trail: NH-48 Toll Plaza, 12:30-12:40, getting down from an orange-cabin truck (T12-1).\n\nLEAD 1: Trace the orange-cabin RJ truck southbound on NH-48\nDo: Pull FASTag and toll-plaza camera records for 12:15-12:50 on 19 Sep for orange-cabin multi-axle trucks with registrations beginning RJ 27 G. Circulate the partial plate to highway patrol and stations south of the toll towards Bharuch.\nWhere: NH-48 Toll Plaza operator; highway patrol; stations on the Bharuch route.\nWhy it ranks here: strongest supporting sighting C02-1 (priority 98.0).\nSupporting: C02-1 (pump camera: boy with maroon backpack leaves orange-cabin RJ truck, partial RJ 27 G?, truck exits southbound 12:04); T07-1 (waiter: scar over left eyebrow, blue asthma inhaler); T12-1 (toll vendor: scar, boy returns to orange-cabin truck heading towards Bharuch); T10-1 (Transport Nagar: talking with orange-cabin RJ truck driver).\nConfirms: a toll or FASTag record of an orange-cabin RJ 27 G* truck between 12:15 and 12:50, or the driver identified and located.\nRules out: toll camera footage for 12:15-12:50 shows no orange-cabin RJ-registered truck.\n\nLEAD 2: Alert Surat: the maternal uncle's household and arrival points\nDo: Inform Surat city police with the description and truck details. Ask the uncle's household to report any contact. Check Surat bus stand and truck terminals from the afternoon of 19 Sep.\nWhere: Surat city police; uncle's household in Surat.\nWhy it ranks here: strongest supporting sighting T10-1 (priority 90.0).\nSupporting: F01-1 (family: he talks about his uncle in Surat a lot); T10-1 (asked drivers for rides towards Surat or Vadodara); T12-1 (truck last seen heading south).\nConfirms: contact with the uncle's household, or a sighting in Surat.\nRules out: the truck is traced to a route that does not reach Surat and he is found elsewhere.\n\nLEAD 3: Verify the railway station branch\nDo: Obtain footage from any other camera covering general coaches 1-3 on platform 2 between 11:20 and 11:31. Question the ticket examiner of the Ahmedabad-bound passenger train that departed at 11:31.\nWhere: Railway Station, platform 2; Railway Protection Force.\nWhy it ranks here: strongest supporting sighting T04-1 (priority 36.0).\nSupporting: T04-1 (anonymous: boarding general coach, 11:30); C03-1 (platform camera: no match seen, but coaches 1-3 not in view).\nConfirms: footage or a witness places a boy matching the description in coaches 1-3.\nRules out: footage covering coaches 1-3 for 11:20-11:31 shows no matching boy boarding.\n\nUNRECONCILED CONFLICTS\nK1: T04-1 (Railway Station, 11:30) cannot be reconciled with C02-1 (dhaba, 11:12), T07-1 (dhaba, 11:00) and T12-1 (toll plaza, 12:30). The drive between the dhaba and the station is 90 minutes. The dhaba branch has higher credibility and is shown as primary. Status: unreconciled, requires field verification. Settled by: Lead 3 (coach 1-3 footage) or Lead 1 (toll record placing the truck at the toll in the window).\n",
+  "appeal": "MISSING\n\nAarav Rathod, 14 years\n\nMissing since the morning of Saturday, 19 September 2026. Last seen at about 7:15 am leaving his home in Shanti Nagar Colony.\n\nDescription:\n- Height about 5 ft 2 in, thin build, wheatish complexion\n- Short, slightly curly hair with a side parting\n- A scar about 2 cm above his left eyebrow\n- Wearing a navy blue hoodie with \"NY\" printed in white on the front, grey track pants with two white stripes, and blue floaters\n- Carrying a maroon school backpack with a knotted left strap and a Spider-Man keychain\n\nHe needs regular asthma medication.\n\nIf you have seen him, call the control room: [CONTROL ROOM NUMBER]\n",
+  "case_file": "MISSING PERSON ENTRY (DRAFT)\n\nName: Aarav Rathod\nAge: 14\nSex: Male\nHeight: About 5 ft 2 in\nBuild: Thin\nComplexion: Wheatish\nHair: Short, slightly curly, side parting\nIdentification marks: Scar about 2 cm above the left eyebrow (4 stitches, cycle fall at age 10)\nClothing when last seen: Navy blue hoodie with \"NY\" printed in white on the front; grey track pants with two white side stripes\nFootwear: Blue Bata floaters\nBelongings: Maroon Skybags school backpack, left strap broken and tied in a knot, Spider-Man keychain; blue Asthalin inhaler; possibly 600-700 rupees in coins (mother believes the piggy bank was emptied)\nMedical conditions: Mild asthma; carries an Asthalin inhaler\nMobile phone of missing person: None (family does not give him a phone)\nLast seen date and time: 19 September 2026, about 07:15\nLast seen place: Leaving home, Shanti Nagar Colony\nCircumstances: Left home on foot saying he was going to school (Saraswati Vidyalaya, Saturday half day). Did not arrive; the school called at 11:00. Had been scolded by his father the previous night over maths unit test marks and was upset. Often talks about his maternal uncle in Surat, who says he has not arrived. Friend Yash's house in Ambika Society checked; he did not go there.\nResidential address: Pending — not stated by informant (locality given: Shanti Nagar)\nFather's name: Pending — not stated by informant\nLanguages spoken: Pending — not stated by informant\nPhotograph available: Pending — not stated by informant\nInformant name: Meena Rathod\nInformant relation: Mother\nInformant phone: 90000 00001\nDate and time of report: 19 September 2026, 18:40\nPolice station: Pending — not stated by informant\nFIR / GD number: Pending — not stated by informant\nInvestigating Officer: Pending — not stated by informant\n\nPending fields:\n- Residential address\n- Father's name\n- Languages spoken\n- Photograph available\n- Police station\n- FIR / GD number\n- Investigating Officer\n"
+ }
+}

@@ -1,0 +1,42 @@
+# Fields follow the submission guide. If the template's own submission.yaml
+# has extra or differently named keys, keep the template's keys and copy the
+# values across from here.
+
+team:
+  name: "[TEAM NAME]"                     # REQUIRED
+  track: "AI"                             # REQUIRED  AI | DevOps | Sustainability | Open
+  lead:
+    name: "[LEAD NAME]"                   # REQUIRED
+    email: "[LEAD EMAIL]"                 # REQUIRED
+  members:
+    - name: "[MEMBER NAME]"
+      email: "[MEMBER EMAIL]"
+
+submission:
+  title: "TRACE: Missing Person Investigation Assistant"
+  problem_statement: >
+    India records 80,000+ missing children every year (NCRB 2022). The first
+    24 hours are critical, but they are spent on paperwork while the family's
+    description, helpline tips and CCTV notes sit in separate places. Nobody
+    checks each tip against the description, orders the sightings in time
+    and place, or notices when two tips cannot both be true.
+  solution_summary: >
+    TRACE is a correlation layer for missing-person cases. AI reads the
+    family statement, tips and CCTV notes into structured sightings and
+    compares each with the family's description. Plain Python scores every
+    sighting, builds the timeline and flags physically impossible pairs as
+    unreconciled instead of silently choosing one. The AI then proposes
+    evidence-cited leads and writes a lead sheet, a public appeal and a
+    pre-filled case file. IBM Bob performs every AI step through Bob Shell
+    with an API key; IBM watsonx.ai is supported through a live adapter.
+  key_features:
+    - "Extraction of free-text tips and CCTV notes into structured sightings, with no invented details"
+    - "Explainable, weighted description-match and credibility scores computed in code, not by the AI"
+    - "Conflict detection: sightings that cannot both be true are flagged 'Unreconciled - requires field verification'"
+    - "Ranked leads that must cite real sighting IDs"
+    - "Lead sheet, public appeal and case file generated from the same facts; unknown fields marked pending"
+    - "Offline-first: cached AI answers, so the demo runs without internet"
+  known_limitations:
+    - "Shipped AI answers for the demo case are team-written reference answers; LLM_MODE=bob replaces them with IBM Bob answers"
+    - "Live watsonx.ai adapter not yet tested against a real account"
+    - "12 hand-coded places and travel times; one case at a time; not deployed"

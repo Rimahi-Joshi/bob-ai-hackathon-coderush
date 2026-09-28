@@ -1,0 +1,137 @@
+{
+  "_note": "Second scripted case, same fictional town (Devgadh) and the same 12 places. All names, numbers and places are invented. Phone numbers use the dummy range 90000 001xx. Design: 4 strong tips forming a trail north-east to the railway station, 1 named vs 1 anonymous tip in direct conflict (railway station vs highway dhaba, 90 min apart), 3 partial, 3 different person, 2 vague, 3 CCTV notes (C02 breaks the conflict in favour of the named caller).",
+  "intake": {
+    "informant_name": "Deepa Solanki",
+    "relation": "Mother",
+    "phone": "90000 00101",
+    "subject_name": "Kavya Solanki",
+    "reported_at": "2026-09-23T11:30:00",
+    "text": "My daughter Kavya, she is 13, 8th standard in Saraswati Vidyalaya. Today morning she left home at 6:40 for her maths tuition in Gandhi Chowk, the class starts at 7. At 7:30 the tuition sir messaged me that she has not come, I thought she is late, but she never reached. We have searched everywhere since then. Two days back her father took her phone because she was chatting on Instagram with some boy called Rohan, we don't know him, he told her he lives in Ahmedabad and he will show her the city. She was crying a lot that night. She was wearing a yellow kurti with small white flowers, and dark blue leggings, and white sports shoes with pink laces. She wears spectacles, black frame, rectangle type, she cannot see without them. She had her purple Wildcraft backpack, the zip is broken so she ties it with a black hair rubber. Her hair is long, black, she makes one plait with a red ribbon. She is slim, height about 4 feet 10 inch, wheatish colour. She has a brown birthmark on her neck, right side, just below the ear, about the size of a one-rupee coin. She has Type 1 diabetes, she always carries her insulin pen and glucose tablets in the front pocket of the bag, if she misses the injection she becomes very weak. She took around 1,500 rupees from my purse I think, it is missing. She has one friend Nisha in Shanti Nagar, we called, she did not go there. She has never gone anywhere alone before, please find her."
+  },
+  "tips": [
+    {
+      "id": "T01",
+      "caller_name": "Bhavesh Thakor",
+      "phone": "90000 00111",
+      "received_at": "2026-09-23T12:40:00",
+      "text": "Hello, I run the tea stall at Gandhi Chowk, near the Bank of Baroda. The girl in the photo, I saw her today morning only, around 7, 7:05, I was washing glasses. She bought one bottle of water and asked me which way is the bus stand. Yellow kurti, spectacles, purple bag. I noticed the bag because the zip was tied with a rubber band. Then she took out some small tablets from the bag and ate two-three, like sweets. She walked towards the bus stand side. She was alone."
+    },
+    {
+      "id": "T02",
+      "caller_name": null,
+      "phone": null,
+      "received_at": "2026-09-23T12:55:00",
+      "text": "I think I saw a girl with a bag near the station. I am not sure when. That's all."
+    },
+    {
+      "id": "T03",
+      "caller_name": "Salim Qureshi",
+      "phone": "90000 00113",
+      "received_at": "2026-09-23T13:10:00",
+      "text": "Sir I am conductor with ST, I was at City Bus Stand this morning, 7:30, 7:35 around. One small girl, spectacles, yellow kurti and blue leggings, came and asked me if there is a bus to Ahmedabad. I told her first Ahmedabad bus is at 10 o'clock. She looked worried, she asked is there any train, I said railway station is better, go by the bridge road. She had purple school bag. She looked 12-13 only. I did not ask anything more, I had duty."
+    },
+    {
+      "id": "T04",
+      "caller_name": null,
+      "phone": null,
+      "received_at": "2026-09-23T13:30:00",
+      "text": "I will not tell my name. The girl on the poster, I saw her at the highway dhaba, Sher-e-Punjab, around quarter past nine this morning. She was wearing yellow kurta, about 13-14 age. She got into a white car with two men and the car went towards the toll. Please check the car. I don't want any problem."
+    },
+    {
+      "id": "T05",
+      "caller_name": "Hetal Shah",
+      "phone": "90000 00115",
+      "received_at": "2026-09-23T14:00:00",
+      "text": "I have a clothes shop in Gandhi Chowk. At 7:10 or so when I was opening, a girl in yellow top and dark leggings with a purple bag went past. But honestly she looked older to me, like 16-17, college type, and tall. I only saw from the side. I don't know if it is the same girl."
+    },
+    {
+      "id": "T06",
+      "caller_name": "Suresh Vankar",
+      "phone": "90000 00116",
+      "received_at": "2026-09-23T14:45:00",
+      "text": "At Transport Nagar around 8 in the morning there was one small girl crying near the weighbridge, maybe 7-8 years, in school uniform, white shirt and blue pinafore, short hair. Some lady came and took her after some time, I think her mother. Just telling in case."
+    },
+    {
+      "id": "T07",
+      "caller_name": "Nirmala Desai",
+      "phone": "90000 00117",
+      "received_at": "2026-09-23T15:20:00",
+      "text": "I was going to the temple across Nehru Bridge this morning, it was 8:10, I remember because the temple bell for aarti had just rung. A girl with spectacles and a long plait with a red ribbon was walking fast on the bridge towards the station side. Yellow kurti, white shoes. She had a purple bag and she was holding her stomach like she was not feeling well. I asked beta are you okay, she said yes aunty and kept walking."
+    },
+    {
+      "id": "T08",
+      "caller_name": "Govind Rathwa",
+      "phone": "90000 00118",
+      "received_at": "2026-09-23T16:05:00",
+      "text": "I sell chai on platform 1 at the railway station. This girl was sitting on the bench near my stall between 9 and 9:10, before the Ahmedabad train came. Spectacles, yellow kurti, purple bag. I saw a brown mark on her neck, right side, near the ear. She took out a small pen-type thing from the bag and gave herself injection in the stomach, that's why I remember, I thought she is sick. She bought one biscuit packet from me. Then the train came and I got busy."
+    },
+    {
+      "id": "T09",
+      "caller_name": "Anil Chaudhary",
+      "phone": "90000 00119",
+      "received_at": "2026-09-23T17:30:00",
+      "text": "At the bus stand, 7:40 like that, I saw a girl in yellow dress with spectacles and a bag, standing near the enquiry window. I did not see her face properly. That's all I remember."
+    },
+    {
+      "id": "T10",
+      "caller_name": null,
+      "phone": null,
+      "received_at": "2026-09-23T19:10:00",
+      "text": "Hello, I saw a girl at Gandhi Chowk this evening around 6, very fair, tall, maybe 16, in school uniform, white shirt and grey skirt, short hair, walking with her mother. Is this the girl?"
+    },
+    {
+      "id": "T11",
+      "caller_name": "Rakesh Meena",
+      "phone": "90000 00121",
+      "received_at": "2026-09-23T20:00:00",
+      "text": "I am booking clerk at the railway station, general ticket counter. At 8:50 this morning a girl came, I think 13 or 14, spectacles, yellow kurti, and asked for one general ticket to Ahmedabad. She paid with two hundred rupee notes and some coins. She had a purple backpack. I told her platform 1, train at 9:20. I remember her because children don't usually come alone."
+    },
+    {
+      "id": "T12",
+      "caller_name": "Kiran Joshi",
+      "phone": "90000 00122",
+      "received_at": "2026-09-23T22:15:00",
+      "text": "Tonight around 9 near Ambika Society gate I saw a young woman, maybe 20-22, in jeans and black jacket, sitting on a bike behind a boy, laughing. I don't know, with all this going on I thought I should tell you."
+    },
+    {
+      "id": "T13",
+      "caller_name": "Pinky",
+      "phone": "90000 00123",
+      "received_at": "2026-09-24T10:00:00",
+      "text": "My neighbour said she saw some girl at the bus stand, maybe Tuesday or maybe today, she is not sure. I am just passing the message."
+    },
+    {
+      "id": "T14",
+      "caller_name": "Mohammed Ashraf",
+      "phone": "90000 00124",
+      "received_at": "2026-09-26T11:00:00",
+      "text": "I am porter at the railway station, I was on leave so I saw the poster only now, sorry. On Wednesday morning around 8:45 I saw a girl with yellow kurti and purple bag near the ticket counter. But she looked older to me, 18-19. Maybe it is not her."
+    }
+  ],
+  "cctv": [
+    {
+      "id": "C01",
+      "camera": "CAM-BS-01",
+      "location": "City Bus Stand, enquiry window",
+      "timestamp": "2026-09-23T07:33:00",
+      "operator": "HC R. Desai",
+      "text": "07:33:20 F juv, est 12-14 yrs, slim. Yellow upper (kurti), dark leggings, light shoes. Purple backpack. Spectacles visible. Speaks with uniformed conductor 07:34-07:35. Exits towards main road (bridge side) 07:36. Alone."
+    },
+    {
+      "id": "C02",
+      "camera": "CAM-RLY-P1-02",
+      "location": "Railway Station, platform 1",
+      "timestamp": "2026-09-23T09:12:00",
+      "operator": "ASI K. Mehta",
+      "text": "09:12:10 F juv, est 12-14 yrs, slim, yellow kurti, dark leggings, purple backpack, long hair in single plait. Seated bench near tea stall 09:12-09:14. Boards general coach (position 2) of Ahmedabad-bound passenger 09:14:40. Train departs 09:20. Face partly visible, spectacles."
+    },
+    {
+      "id": "C03",
+      "camera": "CAM-NH48-T3",
+      "location": "NH-48 Toll Plaza, lane 3",
+      "timestamp": "2026-09-23T09:40:00",
+      "operator": "HC R. Desai",
+      "text": "Reviewed 09:15-10:00 for white cars from dhaba direction. 09:41:05 white hatchback, rear passenger F child est 6-8 yrs, pink frock, short hair, with adult F. No passenger matching circulated description (yellow kurti, spectacles) seen in white cars in this window."
+    }
+  ]
+}

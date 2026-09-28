@@ -1,0 +1,32 @@
+{
+  "narrative": "Aarav Rathod was last seen leaving home in Shanti Nagar Colony at about 07:15 on 19 September, saying he was going to school. Between 07:45 and 08:40 sightings consistent with his description place him at Gandhi Chowk Market (T01-1, scar and knotted maroon bag noted), Lake Garden (T06-1) and City Bus Stand, where he asked about a bus to Vadodara (T02-1) and was captured on camera at the enquiry counter (C01-1). From about 09:30 a boy matching the description was at Transport Nagar asking truck drivers for rides towards Surat or Vadodara, and was seen talking with the driver of an orange-cabin truck with Rajasthan registration (T10-1, T14-1). At 11:12 a pump camera next to Sher-e-Punjab Dhaba recorded a boy with a maroon backpack leaving an orange-cabin RJ-registered truck with an adult man (C02-1); a waiter there reports the scar and an asthma inhaler (T07-1). The truck left southbound at 12:04, and at about 12:30 a boy with the scar was seen getting down from an orange-cabin truck at NH-48 Toll Plaza (T12-1). An anonymous tip placing him at the Railway Station at 11:30 (T04-1) cannot be reconciled with the dhaba sightings and remains unreconciled, requiring field verification.",
+  "leads": [
+    {
+      "title": "Trace the orange-cabin RJ truck southbound on NH-48",
+      "action": "Pull FASTag and toll-plaza camera records for 12:15-12:50 on 19 September for orange-cabin multi-axle trucks with registrations beginning RJ 27 G. Circulate the partial plate to highway patrol and police stations south of the toll towards Bharuch.",
+      "where": "NH-48 Toll Plaza operator; highway patrol; stations on the Bharuch route",
+      "why": "C02-1 records a boy with a maroon backpack leaving an orange-cabin RJ truck (partial RJ 27 G?) at the dhaba and the truck leaving southbound at 12:04. T07-1 reports the scar and inhaler at the dhaba. T12-1 reports a boy with the scar getting down from an orange-cabin truck at the toll heading towards Bharuch. T10-1 saw him talking to an orange-cabin RJ truck driver at Transport Nagar.",
+      "supports": ["C02-1", "T07-1", "T12-1", "T10-1"],
+      "confirm": "A toll or FASTag record of an orange-cabin RJ 27 G* truck passing between 12:15 and 12:50, or the driver identified and located.",
+      "kill": "Toll camera footage for 12:15-12:50 shows no orange-cabin RJ-registered truck."
+    },
+    {
+      "title": "Alert Surat: the maternal uncle's household and arrival points",
+      "action": "Inform Surat city police with the description and the truck details. Ask the uncle's household to report any contact, and check Surat bus stand and truck terminals from 19 September afternoon.",
+      "where": "Surat city police; uncle's household in Surat",
+      "why": "The family says he talks about his uncle in Surat a lot (F01-1). At Transport Nagar he asked drivers for rides towards Surat or Vadodara (T10-1), and the truck was last seen heading south, the Surat direction (T12-1).",
+      "supports": ["T10-1", "T12-1", "F01-1"],
+      "confirm": "Contact with the uncle's household, or a sighting in Surat.",
+      "kill": "The truck is traced to a route that does not reach Surat and he is found elsewhere."
+    },
+    {
+      "title": "Verify the railway station branch",
+      "action": "Obtain footage from any other camera covering general coaches 1-3 on platform 2 between 11:20 and 11:31, and question the ticket examiner of the Ahmedabad-bound passenger train that departed at 11:31.",
+      "where": "Railway Station, platform 2; Railway Protection Force",
+      "why": "An anonymous caller places him boarding the general coach at 11:30 (T04-1). The platform camera saw no match but did not cover coaches 1-3 (C03-1). The tip conflicts with the dhaba sightings and is unreconciled.",
+      "supports": ["T04-1", "C03-1"],
+      "confirm": "Footage or a witness places a boy matching the description in coaches 1-3.",
+      "kill": "Footage covering coaches 1-3 for 11:20-11:31 shows no matching boy boarding."
+    }
+  ]
+}

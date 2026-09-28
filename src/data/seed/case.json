@@ -1,0 +1,137 @@
+{
+  "_note": "Scripted demo case. All names, numbers and places are fictional. Phone numbers use the 90000 000xx dummy range.",
+  "intake": {
+    "informant_name": "Meena Rathod",
+    "relation": "Mother",
+    "phone": "90000 00001",
+    "subject_name": "Aarav Rathod",
+    "reported_at": "2026-09-19T18:40:00",
+    "text": "My son Aarav, he is 14, he is in 9th standard at Saraswati Vidyalaya. Saturday morning he left home at around 7:15 saying he is going to school, Saturday is half day. But the school called at 11 asking why he is absent, that is when we got to know. Friday night his father scolded him about the unit test marks, maths, he got 9 out of 25, and his father said some things, he was very upset, didn't eat properly. He was wearing his navy blue hoodie, the one with NY written in white in front, his cousin gave it from Mumbai, and grey track pant with two white lines on the side. Not uniform, on Saturday they allow sports dress. Blue floaters, Bata. He had his school bag, maroon colour Skybags, the left strap is broken and he tied it in a knot, I told him so many times I will buy new. He has a Spider-Man keychain on the bag. He is thin, height around 5 feet 2 inch, wheatish colour, hair short, little curly, side parting. There is a scar above his left eyebrow, about 2 cm, from when he fell off the cycle when he was 10, he got 4 stitches. He has asthma, mild, he always carries the blue inhaler in his bag, Asthalin. He does not have phone, we don't give him. He took his piggy bank money I think, the tin box is empty, maybe 600-700 rupees, mostly coins. He likes to go to the Lake Garden, and to his friend Yash's house in Ambika Society, we already checked there, Yash's mother says he did not come. He talks about his mama in Surat a lot, my brother, but my brother says he has not come there. He was alone when he left from our house in Shanti Nagar, he goes to school walking only. Please find him, he has never done like this before."
+  },
+  "tips": [
+    {
+      "id": "T01",
+      "caller_name": "Ramesh Prajapati",
+      "phone": "90000 00011",
+      "received_at": "2026-09-19T20:10:00",
+      "text": "Haan ji, hello, I am calling about that boy whose photo is going on the WhatsApp group, Aarav na? I have the sweet shop in Gandhi Chowk, Prajapati Sweets, just opposite the SBI ATM. Saturday morning I was opening the shutter, time must be quarter to eight, ten to eight, because my helper comes at eight and he had not come yet. This boy came and asked for one Parle-G and one small Frooti. I noticed because he was having that cut mark over his eye, left side, above the eyebrow, like old stitches. He was wearing blue hoodie, dark blue, with some white letters in front, and that maroon school bag, one strap was tied in a knot. He paid with coins, lot of coins, one-one rupee, two-two rupee. I asked why no school today, he didn't say anything, just went towards bus stand side. Very quiet boy. I didn't think anything at that time, you know how it is, so many children come."
+    },
+    {
+      "id": "T02",
+      "caller_name": "Imran Shaikh",
+      "phone": "90000 00012",
+      "received_at": "2026-09-19T20:45:00",
+      "text": "Sir I am auto driver, my stand is at City Bus Stand gate number 2. Saturday morning, I think 8:30, 8:45 like that, this boy came to me and asked 'uncle Vadodara ki bus kahan se milegi', which bus goes to Vadodara. I told him ST depot inside, platform 4. He was small, thin fellow, maybe 13-14 only. Blue hoodie, hood was down, grey colour track pant with white lines on the side, and blue slipper type, those rubber floaters. Maroon bag on back. I asked him are you alone, he said papa is inside. I felt something is off but you know, what to do. He went inside. I did not see if he took the bus or not. My number you have, this one only."
+    },
+    {
+      "id": "T03",
+      "caller_name": null,
+      "phone": null,
+      "received_at": "2026-09-19T21:30:00",
+      "text": "I saw a boy near the market. He was looking lost. I don't know, somebody should check."
+    },
+    {
+      "id": "T04",
+      "caller_name": null,
+      "phone": null,
+      "received_at": "2026-09-19T22:05:00",
+      "text": "I don't want to give my name. I am just telling what I saw. That boy from the missing poster, I saw him at the railway station, Saturday, platform 2, eleven thirty or so, when the Ahmedabad train was coming. He had a dark jacket and a bag. He looked same like the photo, around 13-14 age. He got in the general coach I think. Please check. That's all I will say."
+    },
+    {
+      "id": "T05",
+      "caller_name": "Pravin Joshi",
+      "phone": "90000 00015",
+      "received_at": "2026-09-19T23:10:00",
+      "text": "Good evening. I stay in Ambika Society, B wing. Tonight around 10 one fellow was hanging around our gate, heavy build, full beard, maybe 25 years, blue jacket, black jeans. Watchman shouted and he went off on a bike. With all these kidnapping news going on I am worried, you please check him also, I am senior citizen, my wife is alone in the day."
+    },
+    {
+      "id": "T06",
+      "caller_name": "Jyotsna Patel",
+      "phone": "90000 00016",
+      "received_at": "2026-09-20T07:40:00",
+      "text": "Myself Jyotsnaben, I do morning yoga in Lake Garden with the laughter club. Yesterday, Saturday, after yoga finishes at eight, so eight-fifteen or so, one child with blue hoodie and grey pants was sitting on the bench near the main gate, maroon bag kept on the bench next to him. He was eating biscuit. I didn't see his face properly, he had the hood on his head. I thought he's waiting for somebody, tuition or something. Then I left for home."
+    },
+    {
+      "id": "T07",
+      "caller_name": "Sanjay Yadav",
+      "phone": "90000 00017",
+      "received_at": "2026-09-20T09:15:00",
+      "text": "Hello, I work at Sher-e-Punjab Dhaba on the highway, NH-48, as waiter. The boy in the poster, he came to our dhaba on Saturday, around 11, 11:30, with one truck driver, sardar-ji type man, he had turban I think, white kurta. The boy ate two aloo parathas and chai. Driver paid. The boy had the maroon bag, and when he pulled back the hood I saw the mark on his forehead, left side over the eyebrow. He took out one pump, the asthma type, blue one, and used it once. I asked the driver is this your son, he said 'haan, bhatija hai', nephew. They sat maybe 40-45 minutes. My seth told me I should call. My number is 90000 00017."
+    },
+    {
+      "id": "T08",
+      "caller_name": "Farida Sheikh",
+      "phone": "90000 00018",
+      "received_at": "2026-09-20T10:30:00",
+      "text": "I was at the railway station on Saturday, I was going to my mother's place. There was one small boy, very chubby, maybe 8 or 9 years, crying, with a lady in green saree, platform 2, before 12 o'clock. Red t-shirt and shorts. The lady was scolding him. I don't know if that is related to your case but my husband said call anyway, so I am calling."
+    },
+    {
+      "id": "T09",
+      "caller_name": "Mahesh Patel",
+      "phone": "90000 00019",
+      "received_at": "2026-09-20T11:50:00",
+      "text": "Saturday morning I was going for my walk, late walk, near Nehru Bridge, 9 o'clock time. One boy in blue hoodie was sitting on the railing, looking at the water. Grey pant. I remember because I thought he might jump, these days you never know. But he was a big boy, tall, maybe 17-18 years, college going type. Having a moustache also I think. Now I see the poster so I thought I should tell."
+    },
+    {
+      "id": "T10",
+      "caller_name": "Harpreet Singh",
+      "phone": "90000 00020",
+      "received_at": "2026-09-20T14:20:00",
+      "text": "Ji, Harpreet Singh here, I have tyre puncture shop in Transport Nagar, near the weighbridge. Saturday this boy was roaming between the trucks, asking drivers who is going towards Surat or Vadodara side. Time was, I had just had my tea, so nine thirty, quarter to ten. Some drivers shooed him away. Dark blue hoodie, bag, maroon one. Short hair. One driver, I think Rajasthan number truck, orange cabin, talked to him for some time. I did not see the number plate properly, RJ something. I saw the poster only this morning otherwise I would have stopped him, I am telling you honestly. He looked thin and young, not more than fifteen."
+    },
+    {
+      "id": "T11",
+      "caller_name": null,
+      "phone": null,
+      "received_at": "2026-09-20T16:05:00",
+      "text": "Hello? Hello? Yes. I saw a boy at Gandhi Chowk on Saturday evening, six-seven o'clock, tall, very fair, in white school shirt and navy pant, with a girl. Around sixteen-seventeen. They were on a scooty, going fast. Okay that's it."
+    },
+    {
+      "id": "T12",
+      "caller_name": "Kaushik Vasava",
+      "phone": "90000 00022",
+      "received_at": "2026-09-20T19:40:00",
+      "text": "I sell cucumber and chana at the toll plaza on NH-48, the south side. Saturday afternoon, around 12:30, 12:40, one truck was stopped in the queue and this boy got down from the cabin to buy water bottle from me. I saw the mark above his eyebrow, like a line. He had grey track pant and the blue chappals, floaters. Upper he had removed the hoodie, it was tied around his waist, blue one, he was wearing white banian type t-shirt inside. Bag I didn't see, I think he kept it in the truck. The truck was a big one, orange colour cabin. He got back in and the truck went towards Bharuch side. I have told my number to the lady who took the call before also."
+    },
+    {
+      "id": "T13",
+      "caller_name": "Kiran",
+      "phone": "90000 00023",
+      "received_at": "2026-09-21T12:15:00",
+      "text": "Arre, I think some boy was sitting at the bus stand, I'm not sure what time, might be Saturday or Friday. Could be him, could be anyone, there are so many boys there, na."
+    },
+    {
+      "id": "T14",
+      "caller_name": "Dinesh Bhuriya",
+      "phone": "90000 00024",
+      "received_at": "2026-09-22T10:05:00",
+      "text": "Hello madam, I am cleaner on a truck, we were parked at Transport Nagar on Saturday, we left Sunday morning. My friend forwarded the photo so I am calling now, sorry late, we were on the road. That day around ten o'clock one boy in blue hoodie with maroon bag was asking for lift. But he looked older to me, 19-20, tall like me. Maybe it is not the same, I am not sure. Our driver said no, we don't take passengers."
+    }
+  ],
+  "cctv": [
+    {
+      "id": "C01",
+      "camera": "CAM-BS-03",
+      "location": "City Bus Stand, platform 4 concourse",
+      "timestamp": "2026-09-19T08:36:00",
+      "operator": "HC R. Desai",
+      "text": "08:36:12 M juv, est 13-15 yrs, thin build. Dark hoodie (navy/black, chest print not legible), grey lower w/ light side stripe, light-coloured slippers. Dark backpack, colour reads maroon/brown. Approaches enquiry counter 08:36-08:38. Exits frame towards gate 2 (south exit) 08:39. Face partly visible, no marks resolvable at this resolution. Alone throughout."
+    },
+    {
+      "id": "C02",
+      "camera": "CAM-NH48-P7",
+      "location": "Indian Oil pump adjacent to Sher-e-Punjab Dhaba, NH-48",
+      "timestamp": "2026-09-19T11:12:00",
+      "operator": "ASI K. Mehta",
+      "text": "11:12:40 orange-cabin multi-axle truck, RJ reg (partial: RJ 27 G?), halts at pump. M juv alights passenger side: dark hoodie, maroon backpack, light floaters, thin. Walks w/ adult M (turban, white kurta) towards dhaba entrance 11:13:05. 11:58:20 same two return, board truck. Truck exits southbound 12:04. Face not resolvable, hood up on return."
+    },
+    {
+      "id": "C03",
+      "camera": "CAM-RLY-P2-01",
+      "location": "Railway Station, platform 2",
+      "timestamp": "2026-09-19T11:00:00",
+      "operator": "HC R. Desai",
+      "text": "Reviewed 11:00-12:10. Ahmedabad-bound passenger arr 11:24, dep 11:31. No juv matching circulated description (navy hoodie + maroon backpack) observed on platform or boarding. 11:26:30 M juv est 8-10 yrs, heavy build, red T-shirt, shorts, with adult F in green saree, bench near stairs. Coverage gap: coach positions 1-3 (general coaches) not in field of view."
+    }
+  ]
+}

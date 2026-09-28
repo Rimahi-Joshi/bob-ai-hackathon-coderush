@@ -1,0 +1,37 @@
+{
+  "_note": "Fictional town (Devgadh) on NH-48. x/y are positions on the schematic, 0-100, north at top. Edges are road minutes between neighbouring places; everything else is derived by shortest path.",
+  "places": [
+    {"name": "Shanti Nagar Colony",       "x": 30, "y": 10, "aliases": ["shanti nagar", "home"]},
+    {"name": "Ambika Society",            "x": 56, "y": 9,  "aliases": ["ambika"]},
+    {"name": "Saraswati Vidyalaya",       "x": 14, "y": 22, "aliases": ["school", "saraswati school"]},
+    {"name": "Gandhi Chowk Market",       "x": 36, "y": 27, "aliases": ["gandhi chowk", "market", "main bazaar"]},
+    {"name": "Railway Station",           "x": 80, "y": 20, "aliases": ["station", "platform", "railway"]},
+    {"name": "Lake Garden",               "x": 13, "y": 42, "aliases": ["lake", "garden"]},
+    {"name": "City Bus Stand",            "x": 44, "y": 42, "aliases": ["bus stand", "st depot", "bus depot"]},
+    {"name": "Nehru Bridge",              "x": 64, "y": 37, "aliases": ["bridge", "river bridge"]},
+    {"name": "GIDC Industrial Estate",    "x": 84, "y": 53, "aliases": ["gidc", "industrial area"]},
+    {"name": "Transport Nagar",           "x": 42, "y": 60, "aliases": ["truck yard", "weighbridge"]},
+    {"name": "Sher-e-Punjab Dhaba, NH-48","x": 36, "y": 80, "aliases": ["dhaba", "highway dhaba", "petrol pump nh-48"]},
+    {"name": "NH-48 Toll Plaza",          "x": 46, "y": 94, "aliases": ["toll", "toll naka", "toll plaza"]}
+  ],
+  "edges": [
+    ["Shanti Nagar Colony", "Ambika Society", 10],
+    ["Shanti Nagar Colony", "Saraswati Vidyalaya", 8],
+    ["Shanti Nagar Colony", "Gandhi Chowk Market", 12],
+    ["Ambika Society", "Gandhi Chowk Market", 12],
+    ["Ambika Society", "Railway Station", 15],
+    ["Saraswati Vidyalaya", "Gandhi Chowk Market", 10],
+    ["Saraswati Vidyalaya", "Lake Garden", 12],
+    ["Gandhi Chowk Market", "Lake Garden", 15],
+    ["Gandhi Chowk Market", "City Bus Stand", 15],
+    ["Gandhi Chowk Market", "Railway Station", 22],
+    ["City Bus Stand", "Lake Garden", 12],
+    ["City Bus Stand", "Nehru Bridge", 12],
+    ["City Bus Stand", "Transport Nagar", 18],
+    ["Nehru Bridge", "Railway Station", 20],
+    ["Nehru Bridge", "GIDC Industrial Estate", 15],
+    ["GIDC Industrial Estate", "Transport Nagar", 25],
+    ["Transport Nagar", "Sher-e-Punjab Dhaba, NH-48", 40],
+    ["Sher-e-Punjab Dhaba, NH-48", "NH-48 Toll Plaza", 20]
+  ]
+}

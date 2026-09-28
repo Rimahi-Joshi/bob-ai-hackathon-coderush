@@ -1,0 +1,262 @@
+{
+  "F01": {"observations": [{
+    "observed_at": "2026-09-19T07:15:00", "observed_until": null,
+    "location": "Shanti Nagar Colony",
+    "descriptors": {
+      "height": "about 5 ft 2 in", "build": "thin", "complexion": "wheatish",
+      "clothing_upper": "navy blue hoodie with 'NY' printed in white on the front",
+      "clothing_lower": "grey track pants with two white stripes down the side",
+      "footwear": "blue Bata floaters",
+      "hair": "short, slightly curly, side parting",
+      "distinguishing_marks": "scar about 2 cm above the left eyebrow (4 stitches, cycle fall at age 10)",
+      "accessories": "maroon Skybags school backpack, left strap broken and tied in a knot, Spider-Man keychain; blue Asthalin inhaler carried in the bag",
+      "apparent_age": "14 (stated age)",
+      "companions": "alone"
+    },
+    "raw_text": "Saturday morning he left home at around 7:15 saying he is going to school ... He was alone when he left from our house in Shanti Nagar, he goes to school walking only.",
+    "extraction_notes": "Last-seen event is departure from home, Shanti Nagar; time approximate ('around 7:15'). Saturday resolved to 2026-09-19 from the report date. Never reached Saraswati Vidyalaya (school called at 11). Mild asthma. No phone. Mother believes he took 600-700 rupees in coins ('I think'). Upset after being scolded over test marks the previous night. Mentions an uncle (mama) in Surat who says he has not arrived; friend Yash in Ambika Society already checked."
+  }]},
+
+  "T01": {"observations": [{
+    "observed_at": "2026-09-19T07:45:00", "observed_until": "2026-09-19T07:50:00",
+    "location": "Gandhi Chowk Market",
+    "descriptors": {
+      "height": null, "build": null, "complexion": null,
+      "clothing_upper": "dark blue hoodie with white letters on the front",
+      "clothing_lower": null, "footwear": null, "hair": null,
+      "distinguishing_marks": "old cut mark like stitches above the left eyebrow",
+      "accessories": "maroon school bag, one strap tied in a knot",
+      "apparent_age": null, "companions": null
+    },
+    "raw_text": "Saturday morning I was opening the shutter, time must be quarter to eight, ten to eight ... he was having that cut mark over his eye, left side, above the eyebrow, like old stitches. He was wearing blue hoodie, dark blue, with some white letters in front, and that maroon school bag, one strap was tied in a knot.",
+    "extraction_notes": "Saturday resolved to 2026-09-19. Shop is in Gandhi Chowk. Bought Parle-G and Frooti, paid in one- and two-rupee coins. Left towards the bus stand. Age not stated."
+  }]},
+
+  "T02": {"observations": [{
+    "observed_at": "2026-09-19T08:30:00", "observed_until": "2026-09-19T08:45:00",
+    "location": "City Bus Stand",
+    "descriptors": {
+      "height": null, "build": "small, thin", "complexion": null,
+      "clothing_upper": "blue hoodie, hood down",
+      "clothing_lower": "grey track pant with white lines on the side",
+      "footwear": "blue rubber floaters", "hair": null,
+      "distinguishing_marks": null, "accessories": "maroon bag worn on back",
+      "apparent_age": "13-14", "companions": "appeared alone; said his father was inside"
+    },
+    "raw_text": "Saturday morning, I think 8:30, 8:45 like that, this boy came to me and asked ... He was small, thin fellow, maybe 13-14 only. Blue hoodie, hood was down, grey colour track pant with white lines on the side, and blue slipper type, those rubber floaters. Maroon bag on back.",
+    "extraction_notes": "Caller is an auto driver at bus stand gate 2. Boy asked for a bus to Vadodara and was directed to platform 4. Caller did not see whether he boarded. Claim that father was inside is unverified; caller felt 'something is off'."
+  }]},
+
+  "T03": {"observations": [{
+    "observed_at": null, "observed_until": null,
+    "location": "Gandhi Chowk Market",
+    "descriptors": {
+      "height": null, "build": null, "complexion": null, "clothing_upper": null,
+      "clothing_lower": null, "footwear": null, "hair": null,
+      "distinguishing_marks": null, "accessories": null, "apparent_age": null,
+      "companions": null
+    },
+    "raw_text": "I saw a boy near the market. He was looking lost.",
+    "extraction_notes": "Anonymous. No date, time or description. 'The market' mapped to Gandhi Chowk Market as the only market in the place list; caller did not name it."
+  }]},
+
+  "T04": {"observations": [{
+    "observed_at": "2026-09-19T11:30:00", "observed_until": null,
+    "location": "Railway Station",
+    "descriptors": {
+      "height": null, "build": null, "complexion": null,
+      "clothing_upper": "dark jacket", "clothing_lower": null, "footwear": null,
+      "hair": null, "distinguishing_marks": null,
+      "accessories": "a bag (colour and type not stated)",
+      "apparent_age": "13-14", "companions": null
+    },
+    "raw_text": "I saw him at the railway station, Saturday, platform 2, eleven thirty or so, when the Ahmedabad train was coming. He had a dark jacket and a bag. He looked same like the photo, around 13-14 age. He got in the general coach I think.",
+    "extraction_notes": "Anonymous, refused name. Platform 2. Time approximate ('or so'). 'Looked same like the photo' is the caller's identification, not a description. Boarding the Ahmedabad train's general coach is hedged ('I think')."
+  }]},
+
+  "T05": {"observations": [{
+    "observed_at": "2026-09-19T22:00:00", "observed_until": null,
+    "location": "Ambika Society",
+    "descriptors": {
+      "height": null, "build": "heavy", "complexion": null,
+      "clothing_upper": "blue jacket", "clothing_lower": "black jeans",
+      "footwear": null, "hair": "full beard", "distinguishing_marks": null,
+      "accessories": null, "apparent_age": "about 25",
+      "companions": "alone; left on a motorbike"
+    },
+    "raw_text": "Tonight around 10 one fellow was hanging around our gate, heavy build, full beard, maybe 25 years, blue jacket, black jeans.",
+    "extraction_notes": "'Tonight' resolved to 2026-09-19 from the time the call was received (23:10). Caller describes an adult man, not a boy, and does not claim it is the missing child."
+  }]},
+
+  "T06": {"observations": [{
+    "observed_at": "2026-09-19T08:15:00", "observed_until": null,
+    "location": "Lake Garden",
+    "descriptors": {
+      "height": null, "build": null, "complexion": null,
+      "clothing_upper": "blue hoodie, hood up", "clothing_lower": "grey pants",
+      "footwear": null, "hair": null, "distinguishing_marks": null,
+      "accessories": "maroon bag (on the bench beside him)",
+      "apparent_age": null, "companions": "alone, appeared to be waiting"
+    },
+    "raw_text": "Saturday, after yoga finishes at eight, so eight-fifteen or so, one child with blue hoodie and grey pants was sitting on the bench near the main gate, maroon bag kept on the bench next to him. He was eating biscuit. I didn't see his face properly, he had the hood on his head.",
+    "extraction_notes": "Called a 'child'; no age given. Face not seen (hood up). Eating a biscuit. Bench near the main gate."
+  }]},
+
+  "T07": {"observations": [{
+    "observed_at": "2026-09-19T11:00:00", "observed_until": "2026-09-19T11:30:00",
+    "location": "Sher-e-Punjab Dhaba, NH-48",
+    "descriptors": {
+      "height": null, "build": null, "complexion": null,
+      "clothing_upper": "hooded top (hood pulled back), colour not stated",
+      "clothing_lower": null, "footwear": null, "hair": null,
+      "distinguishing_marks": "mark on the forehead, left side over the eyebrow",
+      "accessories": "maroon bag; blue asthma inhaler, used once",
+      "apparent_age": null,
+      "companions": "adult male truck driver, possibly wearing a turban, white kurta; said the boy was his nephew"
+    },
+    "raw_text": "The boy in the poster, he came to our dhaba on Saturday, around 11, 11:30, with one truck driver, sardar-ji type man, he had turban I think, white kurta ... The boy had the maroon bag, and when he pulled back the hood I saw the mark on his forehead, left side over the eyebrow. He took out one pump, the asthma type, blue one, and used it once.",
+    "extraction_notes": "Caller is a waiter at the dhaba. Turban hedged ('I think'). Driver claimed the boy was his nephew ('bhatija'). Stayed about 40-45 minutes; driver paid. Hoodie colour not stated."
+  }]},
+
+  "T08": {"observations": [{
+    "observed_at": null, "observed_until": "2026-09-19T12:00:00",
+    "location": "Railway Station",
+    "descriptors": {
+      "height": null, "build": "very chubby", "complexion": null,
+      "clothing_upper": "red t-shirt", "clothing_lower": "shorts",
+      "footwear": null, "hair": null, "distinguishing_marks": null,
+      "accessories": null, "apparent_age": "8 or 9",
+      "companions": "woman in a green saree who was scolding him"
+    },
+    "raw_text": "There was one small boy, very chubby, maybe 8 or 9 years, crying, with a lady in green saree, platform 2, before 12 o'clock. Red t-shirt and shorts.",
+    "extraction_notes": "Only an upper time bound ('before 12'). Platform 2. Caller herself is unsure it is related."
+  }]},
+
+  "T09": {"observations": [{
+    "observed_at": "2026-09-19T09:00:00", "observed_until": null,
+    "location": "Nehru Bridge",
+    "descriptors": {
+      "height": "tall", "build": "big", "complexion": null,
+      "clothing_upper": "blue hoodie", "clothing_lower": "grey pant",
+      "footwear": null, "hair": "moustache (caller unsure)",
+      "distinguishing_marks": null, "accessories": null,
+      "apparent_age": "17-18, college-going type", "companions": null
+    },
+    "raw_text": "near Nehru Bridge, 9 o'clock time. One boy in blue hoodie was sitting on the railing, looking at the water. Grey pant ... But he was a big boy, tall, maybe 17-18 years, college going type. Having a moustache also I think.",
+    "extraction_notes": "Sitting on the bridge railing looking at the water; caller feared he might jump. Moustache hedged ('I think'). No bag mentioned."
+  }]},
+
+  "T10": {"observations": [{
+    "observed_at": "2026-09-19T09:30:00", "observed_until": "2026-09-19T09:45:00",
+    "location": "Transport Nagar",
+    "descriptors": {
+      "height": null, "build": "thin", "complexion": null,
+      "clothing_upper": "dark blue hoodie", "clothing_lower": null,
+      "footwear": null, "hair": "short",
+      "distinguishing_marks": null, "accessories": "maroon bag",
+      "apparent_age": "not more than fifteen",
+      "companions": "spoke at length with the driver of an orange-cabin truck with Rajasthan (RJ) registration"
+    },
+    "raw_text": "Saturday this boy was roaming between the trucks, asking drivers who is going towards Surat or Vadodara side. Time was, I had just had my tea, so nine thirty, quarter to ten ... Dark blue hoodie, bag, maroon one. Short hair. One driver, I think Rajasthan number truck, orange cabin, talked to him for some time ... He looked thin and young, not more than fifteen.",
+    "extraction_notes": "Caller runs a puncture shop near the weighbridge. Boy asked for rides towards Surat or Vadodara. Truck registration hedged ('I think Rajasthan', 'RJ something'); rest of plate not seen."
+  }]},
+
+  "T11": {"observations": [{
+    "observed_at": "2026-09-19T18:00:00", "observed_until": "2026-09-19T19:00:00",
+    "location": "Gandhi Chowk Market",
+    "descriptors": {
+      "height": "tall", "build": null, "complexion": "very fair",
+      "clothing_upper": "white school shirt", "clothing_lower": "navy pant",
+      "footwear": null, "hair": null, "distinguishing_marks": null,
+      "accessories": null, "apparent_age": "16-17",
+      "companions": "a girl; both on a scooter"
+    },
+    "raw_text": "I saw a boy at Gandhi Chowk on Saturday evening, six-seven o'clock, tall, very fair, in white school shirt and navy pant, with a girl. Around sixteen-seventeen. They were on a scooty, going fast.",
+    "extraction_notes": "Anonymous. Time given as a range ('six-seven o'clock')."
+  }]},
+
+  "T12": {"observations": [{
+    "observed_at": "2026-09-19T12:30:00", "observed_until": "2026-09-19T12:40:00",
+    "location": "NH-48 Toll Plaza",
+    "descriptors": {
+      "height": null, "build": null, "complexion": null,
+      "clothing_upper": "white vest-type t-shirt; blue hoodie removed and tied around the waist",
+      "clothing_lower": "grey track pant", "footwear": "blue floaters",
+      "hair": null, "distinguishing_marks": "line-like mark above the eyebrow (side not stated)",
+      "accessories": null, "apparent_age": null,
+      "companions": "travelling in an orange-cabin truck; driver not described"
+    },
+    "raw_text": "Saturday afternoon, around 12:30, 12:40, one truck was stopped in the queue and this boy got down from the cabin to buy water bottle from me. I saw the mark above his eyebrow, like a line. He had grey track pant and the blue chappals, floaters. Upper he had removed the hoodie, it was tied around his waist, blue one, he was wearing white banian type t-shirt inside.",
+    "extraction_notes": "Caller sells snacks at the south-side toll. Bag not seen; caller thinks it was left in the truck, so accessories left null. Truck went on towards Bharuch."
+  }]},
+
+  "T13": {"observations": [{
+    "observed_at": null, "observed_until": null,
+    "location": "City Bus Stand",
+    "descriptors": {
+      "height": null, "build": null, "complexion": null, "clothing_upper": null,
+      "clothing_lower": null, "footwear": null, "hair": null,
+      "distinguishing_marks": null, "accessories": null, "apparent_age": null,
+      "companions": null
+    },
+    "raw_text": "I think some boy was sitting at the bus stand, I'm not sure what time, might be Saturday or Friday.",
+    "extraction_notes": "Day uncertain (Friday or Saturday), so no date recorded. No time. No description. Caller says it 'could be anyone'."
+  }]},
+
+  "T14": {"observations": [{
+    "observed_at": "2026-09-19T10:00:00", "observed_until": null,
+    "location": "Transport Nagar",
+    "descriptors": {
+      "height": "tall (caller's own height)", "build": null, "complexion": null,
+      "clothing_upper": "blue hoodie", "clothing_lower": null, "footwear": null,
+      "hair": null, "distinguishing_marks": null, "accessories": "maroon bag",
+      "apparent_age": "19-20", "companions": null
+    },
+    "raw_text": "That day around ten o'clock one boy in blue hoodie with maroon bag was asking for lift. But he looked older to me, 19-20, tall like me. Maybe it is not the same, I am not sure.",
+    "extraction_notes": "Caller is a truck cleaner who was parked at Transport Nagar on Saturday. Reported three days later. Caller doubts it is the same boy. Boy was asking for a lift; caller's driver refused."
+  }]},
+
+  "C01": {"observations": [{
+    "observed_at": "2026-09-19T08:36:00", "observed_until": "2026-09-19T08:39:00",
+    "location": "City Bus Stand",
+    "descriptors": {
+      "height": null, "build": "thin", "complexion": null,
+      "clothing_upper": "dark hoodie (navy or black), chest print not legible",
+      "clothing_lower": "grey lower with light side stripe",
+      "footwear": "light-coloured slippers", "hair": null,
+      "distinguishing_marks": null,
+      "accessories": "dark backpack, colour reads maroon/brown",
+      "apparent_age": "13-15", "companions": "alone"
+    },
+    "raw_text": "08:36:12 M juv, est 13-15 yrs, thin build. Dark hoodie (navy/black, chest print not legible), grey lower w/ light side stripe, light-coloured slippers. Dark backpack, colour reads maroon/brown. Approaches enquiry counter 08:36-08:38. Exits frame towards gate 2 (south exit) 08:39.",
+    "extraction_notes": "Camera CAM-BS-03, platform 4 concourse. Face partly visible; no marks resolvable at this resolution. Went to the enquiry counter, then left towards gate 2 (south exit)."
+  }]},
+
+  "C02": {"observations": [{
+    "observed_at": "2026-09-19T11:12:00", "observed_until": "2026-09-19T11:58:00",
+    "location": "Sher-e-Punjab Dhaba, NH-48",
+    "descriptors": {
+      "height": null, "build": "thin", "complexion": null,
+      "clothing_upper": "dark hoodie", "clothing_lower": null,
+      "footwear": "light floaters", "hair": null, "distinguishing_marks": null,
+      "accessories": "maroon backpack", "apparent_age": null,
+      "companions": "adult male in turban and white kurta; orange-cabin multi-axle truck, RJ registration (partial: RJ 27 G?)"
+    },
+    "raw_text": "11:12:40 orange-cabin multi-axle truck, RJ reg (partial: RJ 27 G?), halts at pump. M juv alights passenger side: dark hoodie, maroon backpack, light floaters, thin. Walks w/ adult M (turban, white kurta) towards dhaba entrance 11:13:05. 11:58:20 same two return, board truck. Truck exits southbound 12:04.",
+    "extraction_notes": "Camera CAM-NH48-P7 at the Indian Oil pump next to Sher-e-Punjab Dhaba; mapped to the dhaba. Partial plate uncertain ('?'). Face not resolvable. Truck left southbound at 12:04."
+  }]},
+
+  "C03": {"observations": [{
+    "observed_at": "2026-09-19T11:26:00", "observed_until": null,
+    "location": "Railway Station",
+    "descriptors": {
+      "height": null, "build": "heavy", "complexion": null,
+      "clothing_upper": "red T-shirt", "clothing_lower": "shorts",
+      "footwear": null, "hair": null, "distinguishing_marks": null,
+      "accessories": null, "apparent_age": "8-10",
+      "companions": "adult woman in a green saree"
+    },
+    "raw_text": "11:26:30 M juv est 8-10 yrs, heavy build, red T-shirt, shorts, with adult F in green saree, bench near stairs.",
+    "extraction_notes": "Camera CAM-RLY-P2-01, platform 2, reviewed 11:00-12:10. Operator saw no juvenile matching the circulated description (navy hoodie, maroon backpack) on the platform or boarding the Ahmedabad train (arr 11:24, dep 11:31). Coverage gap: general coaches at positions 1-3 were not in view, so boarding there cannot be excluded from this footage."
+  }]}
+}

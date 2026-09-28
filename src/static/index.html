@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TRACE</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<div class="strip">
+  <span>IBM x NFSU Hackathon · Track 3: Public Safety</span>
+  <span id="mode">Offline mode</span>
+</div>
+
+<header class="top">
+  <div class="title">
+    <div class="name">TRACE</div>
+    <div class="divider"></div>
+    <div>
+      <div class="t1">Missing Person Investigation Assistant</div>
+      <div class="t2">Correlates family, tip and CCTV reports for the first 24 hours</div>
+    </div>
+  </div>
+  <div id="case-box" class="case-box">No case open</div>
+</header>
+
+<nav class="tabs" id="tabs">
+  <button data-tab="home" class="on"><svg width="22" height="22" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M3 11l9-7 9 7v9a1 1 0 0 1-1 1h-5v-6h-6v6H4a1 1 0 0 1-1-1z"/></svg>Home</button>
+  <button data-tab="newcase"><svg width="22" height="22" fill="none" stroke="currentColor" viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21c0-4 4-6 8-6s8 2 8 6"/></svg>New case</button>
+  <button data-tab="reports"><svg width="22" height="22" fill="none" stroke="currentColor" viewBox="0 0 24 24"><rect x="4" y="3" width="16" height="18" rx="2"/><path d="M8 8h8M8 12h8M8 16h5"/></svg>Reports</button>
+  <button data-tab="timeline"><svg width="22" height="22" fill="none" stroke="currentColor" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>Timeline</button>
+  <button data-tab="leads"><svg width="22" height="22" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M5 21V4M5 4h11l-2 4 2 4H5"/></svg>Leads</button>
+  <button data-tab="documents"><svg width="22" height="22" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M6 3h8l4 4v14H6z"/><path d="M14 3v4h4M9 12h6M9 16h6"/></svg>Documents</button>
+  <button data-tab="scoring"><svg width="22" height="22" fill="none" stroke="currentColor" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M9.5 9.5a2.5 2.5 0 1 1 3.5 2.3c-.6.3-1 .8-1 1.5V14M12 17.5v.01"/></svg>Scoring</button>
+</nav>
+
+<main>
+
+  <section data-view="home">
+    <div class="band">
+      <h2 class="band-title">Case actions</h2>
+      <div class="cards">
+        <div class="svc" data-action="seed">
+          <svg width="22" height="22" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M4 4h16v16H4z"/><path d="M4 9h16M9 4v16"/></svg>
+          <h3>1. Load demo case</h3>
+          <p>A missing 14-year-old with 14 phone tips and 3 CCTV notes</p>
+          <span class="arrow">&rarr;</span>
+        </div>
+        <div class="svc" data-action="analyse">
+          <svg width="22" height="22" fill="none" stroke="currentColor" viewBox="0 0 24 24"><circle cx="11" cy="11" r="6"/><path d="M20 20l-4.5-4.5"/></svg>
+          <h3>2. Analyse reports</h3>
+          <p>Check every report against the family's description and build the timeline</p>
+          <span class="arrow">&rarr;</span>
+        </div>
+        <div class="svc" data-action="docs">
+          <svg width="22" height="22" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M6 3h8l4 4v14H6z"/><path d="M14 3v4h4M9 12h6M9 16h6"/></svg>
+          <h3>3. Write documents</h3>
+          <p>Lead sheet, public appeal and case file draft</p>
+          <span class="arrow">&rarr;</span>
+        </div>
+        <div class="svc" data-tab="addreport">
+          <svg width="22" height="22" fill="none" stroke="currentColor" viewBox="0 0 24 24"><rect x="4" y="3" width="16" height="18" rx="2"/><path d="M12 8v8M8 12h8"/></svg>
+          <h3>Add a report</h3>
+          <p>Record a new phone tip or CCTV note</p>
+          <span class="arrow">&rarr;</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="lower">
+      <div class="info">
+        <h3>Case summary</h3>
+        <p id="sum-text">No case open. Start with "Load demo case" or open a new case.</p>
+        <button class="pill" data-tab="reports">View reports</button>
+      </div>
+      <div class="info">
+        <h3>Conflicts</h3>
+        <p id="conf-text">Appears after analysis. Reports that cannot both be true are flagged here, never silently dropped.</p>
+        <button class="pill" data-tab="timeline">View timeline</button>
+      </div>
+      <div class="info help">
+        <h3>Leads to act on</h3>
+        <div class="bignum"><span class="ring"><svg width="22" height="22" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M5 21V4M5 4h11l-2 4 2 4H5"/></svg></span><span id="lead-count">0</span></div>
+        <button class="pill" data-tab="leads">View leads</button>
+      </div>
+    </div>
+  </section>
+
+  <section data-view="newcase" hidden>
+    <form id="f-case">
+      <div class="panel">
+        <div class="panel-head"><span class="hd"><svg width="22" height="22" fill="none" stroke="currentColor" viewBox="0 0 24 24" class="head-ic solid"><circle cx="12" cy="8" r="4"/><path d="M4 21c0-4 4-6 8-6s8 2 8 6"/></svg>Missing Person Details</span><span class="badge req">REQUIRED</span></div>
+        <div class="grid">
+          <label>Full name<input name="subject_name" required></label>
+          <label>Age<input name="age" type="number" min="0"></label>
+          <label>Gender<select name="gender"><option value="">Select</option><option>Male</option><option>Female</option><option>Other</option><option>Not known</option></select></label>
+          <label>Nationality / State<input name="state"></label>
+          <label>Date last seen<input name="date" type="date" required></label>
+          <label>Time last seen<input name="time" type="time"></label>
+          <label class="full">Last known location<input name="location" required></label>
+          <label>Height (cm)<input name="height" type="number" min="0"></label>
+          <label>Weight (kg)<input name="weight" type="number" min="0"></label>
+          <label class="full">Physical description (skin tone, hair, eyes, distinguishing marks)<textarea name="physical" rows="3"></textarea></label>
+          <label class="full">Clothing and belongings when last seen<textarea name="clothing" rows="3"></textarea></label>
+        </div>
+      </div>
+      <div class="panel">
+        <div class="panel-head"><span class="hd"><svg width="22" height="22" fill="none" stroke="currentColor" viewBox="0 0 24 24" class="head-ic"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a1 1 0 0 1-1 1A16 16 0 0 1 4 5a1 1 0 0 1 1-1"/></svg>Informant Details</span><span class="badge req">REQUIRED</span></div>
+        <div class="grid">
+          <label>Informant name<input name="informant_name" required></label>
+          <label>Relation to missing person<input name="relation" required></label>
+          <label>Phone number<input name="phone"></label>
+          <label>Medical conditions<input name="medical"></label>
+          <label class="full">Statement (what the family said, in their words)<textarea name="text" rows="5"></textarea></label>
+        </div>
+      </div>
+      <div class="actions"><button class="primary">Open case</button></div>
+    </form>
+  </section>
+
+  <section data-view="addreport" hidden>
+    <form id="f-report">
+      <div class="panel">
+        <div class="panel-head"><span class="hd"><svg width="22" height="22" fill="none" stroke="currentColor" viewBox="0 0 24 24" class="head-ic"><rect x="4" y="3" width="16" height="18" rx="2"/><path d="M8 8h8M8 12h8M8 16h5"/></svg>Report Details</span><span class="badge req">REQUIRED</span></div>
+        <div class="grid">
+          <label>Report type<select name="kind"><option value="tip">Phone tip</option><option value="cctv">CCTV note</option></select></label>
+          <label data-for="tip">Caller name (blank if anonymous)<input name="caller_name"></label>
+          <label data-for="cctv">Camera ID<input name="camera"></label>
+          <label data-for="tip">Caller phone<input name="phone"></label>
+          <label data-for="cctv">Camera location<input name="location"></label>
+          <label>Date<input name="date" type="date"></label>
+          <label>Time<input name="time" type="time"></label>
+          <label class="full">What was said or seen<textarea name="text" rows="6" required></textarea></label>
+        </div>
+      </div>
+      <div class="actions"><button class="primary">Add report</button></div>
+    </form>
+  </section>
+
+  <section data-view="reports" hidden><div id="reports"></div></section>
+  <section data-view="timeline" hidden><div id="timeline"></div></section>
+  <section data-view="leads" hidden><div id="leads"></div></section>
+  <section data-view="documents" hidden><div id="documents"></div></section>
+  <section data-view="scoring" hidden><div id="scoring"></div></section>
+</main>
+
+<div id="busy" class="busy" hidden><div class="busy-box" id="busy-text">Working...</div></div>
+<script src="/static/app.js"></script>
+</body>
+</html>

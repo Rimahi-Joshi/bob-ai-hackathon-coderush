@@ -1,0 +1,19 @@
+# secrets
+.env
+src/.env
+
+# python
+.venv/
+src/.venv/
+__pycache__/
+*.pyc
+
+# runtime data written by the app
+src/data/cases/*.json
+src/data/llm_cache.json
+src/bob/questions/
+
+# os / editors
+.DS_Store
+.claude/
+node_modules/
