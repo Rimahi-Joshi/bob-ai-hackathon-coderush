@@ -4,7 +4,7 @@ A correlation layer for the first 24 hours of a missing-person search.
 Family statements, helpline tips and CCTV notes go in as free text; a
 reconciled timeline, ranked investigative leads and three ready-to-use
 documents come out, with every score explainable and every contradiction
-flagged rather than hidden aiding investigators to follow plausible routes of investigations giving each lead a confidence score.
+flagged rather than hidden aiding investigators to follow plausible routes of investigations giving each lead a confidence score..
 
 ## Team
 
